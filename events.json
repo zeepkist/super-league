@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "path": "./events/2022-12-04.csv",
+      "theme": "Offroad Rally"
+    },
+    {
+      "path": "./events/2023-01-08.csv",
+      "theme": "Winter Wonderland"
+    },
+    {
+      "path": "./events/2023-01-29.csv",
+      "theme": "Construction"
+    }
+  ]
+}
