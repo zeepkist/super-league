@@ -37,7 +37,7 @@ jobs:
         run: yarn install --immutable
 
       - name: Build Data
-        run: yarn super-league -i ./data -o ./events
+        run: yarn super-league -i data -o output
 
       - name: Deploy Data
         uses: wopian/git-publish-subdir-action@develop
