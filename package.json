@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "super-league -i data -o output"
+  },
+  "dependencies": {
+    "@zeepkist/combine": "1.2.0"
+  },
+  "renovate": {
+    "extends": [
+      "local>wopian/renovate-config"
+    ]
+  },
+  "packageManager": "yarn@3.4.1"
+}

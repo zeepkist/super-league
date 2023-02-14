@@ -1,0 +1,50 @@
+name: CD
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+env:
+  FORCE_COLOR: true
+  NODE_VERSION: 18
+
+jobs:
+  deploy:
+    name: Deploy Data
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "dir=$(yarn config get cacheFolder)" >> $GITHUB_OUTPUT
+
+      - uses: actions/cache@v3
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Install Dependencies
+        run: yarn install --immutable
+
+      - name: Build Data
+        run: yarn super-league -i ./data -o ./events
+
+      - name: Deploy Data
+        uses: wopian/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: data
+          FOLDER: output
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SKIP_EMPTY_COMMITS: true
+          MESSAGE: "{sha}"
