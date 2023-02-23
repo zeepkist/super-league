@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@zeepkist/combine@npm:1.2.2":
-  version: 1.2.2
-  resolution: "@zeepkist/combine@npm:1.2.2"
+"@zeepkist/combine@npm:2.2.0":
+  version: 2.2.0
+  resolution: "@zeepkist/combine@npm:2.2.0"
   dependencies:
     commander: ~10.0.0
     csv-parse: ~5.3.3
@@ -16,7 +16,7 @@ __metadata:
       built: true
   bin:
     super-league: dist/cli.js
-  checksum: 3554b8e5ddac93540fe14422faedcd206c35cbc461b9196fd7e0458c01bf37ce735e42e203b950d6245b1bdffd176a98879f129534e314501f452f4085f664cb
+  checksum: ba375424645793959f79995dd577bc5b79e6a0e7f50b636857578c0b1e4a2d36749b46027da653718674b69ea7a5ff3b4b7bfbd5cb456eb42c3bee4c1767d2bb
   languageName: node
   linkType: hard
 
@@ -38,6 +38,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@zeepkist/combine": 1.2.2
+    "@zeepkist/combine": 2.2.0
   languageName: unknown
   linkType: soft
