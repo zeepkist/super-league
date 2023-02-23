@@ -1,6 +1,7 @@
 [
   {
-    "username": "[CTR] jandje",
+    "username": "jandje",
+    "team": "CTR",
     "totalPoints": 60.61,
     "steamId": "76561198106476018"
   },
@@ -10,7 +11,8 @@
     "steamId": "76561198050792757"
   },
   {
-    "username": "[CTR] Sandals",
+    "username": "Sandals",
+    "team": "CTR",
     "totalPoints": 46.51,
     "steamId": "76561198081356099"
   },
@@ -20,17 +22,20 @@
     "steamId": "76561199126724675"
   },
   {
-    "username": "[CTR]OwlPlague",
+    "username": "OwlPlague",
+    "team": "CTR",
     "totalPoints": 31.48,
     "steamId": "76561199173536675"
   },
   {
-    "username": "[CTR] Cbad Cruiser",
+    "username": "Cbad Cruiser",
+    "team": "CTR",
     "totalPoints": 29.46,
     "steamId": "76561198161379363"
   },
   {
-    "username": "[RTR]Ragetoad.Kawaii",
+    "username": "Ragetoad.Kawaii",
+    "team": "RTR",
     "totalPoints": 27.78,
     "steamId": "76561199230094250"
   },
@@ -45,7 +50,8 @@
     "steamId": "76561198008859132"
   },
   {
-    "username": "[CTR] NathWalt",
+    "username": "NathWalt",
+    "team": "CTR",
     "totalPoints": 22.67,
     "steamId": "76561198021974488"
   },
@@ -155,7 +161,8 @@
     "steamId": "76561199115313906"
   },
   {
-    "username": "[KUP] flying_pancake12",
+    "username": "flying_pancake12",
+    "team": "KUP",
     "totalPoints": 4,
     "steamId": "76561199028380903"
   },
@@ -175,7 +182,8 @@
     "steamId": "76561198123116932"
   },
   {
-    "username": "[CLMTY] Rorroh",
+    "username": "Rorroh",
+    "team": "CLMTY",
     "totalPoints": 3.04,
     "steamId": "76561198027978961"
   },
@@ -225,7 +233,8 @@
     "steamId": "76561198302828629"
   },
   {
-    "username": "[OR] Roader",
+    "username": "Roader",
+    "team": "OR",
     "totalPoints": 1.93,
     "steamId": "76561199053404858"
   },
@@ -290,7 +299,8 @@
     "steamId": "76561198304929551"
   },
   {
-    "username": "[OR] rsgold",
+    "username": "rsgold",
+    "team": "OR",
     "totalPoints": 1.09,
     "steamId": "76561199121464627"
   },
@@ -380,7 +390,8 @@
     "steamId": "76561198041135033"
   },
   {
-    "username": "[CTR]zedShep",
+    "username": "zedShep",
+    "team": "CTR",
     "totalPoints": 0.8,
     "steamId": "76561198059628222"
   },
@@ -680,7 +691,8 @@
     "steamId": "76561199230056823"
   },
   {
-    "username": "[TSB] alpha",
+    "username": "alpha",
+    "team": "TSB",
     "totalPoints": 0.27,
     "steamId": "76561198396495977"
   },
@@ -930,7 +942,8 @@
     "steamId": "76561199002720572"
   },
   {
-    "username": "[/<]Phoenjx",
+    "username": "Phoenjx",
+    "team": "/<",
     "totalPoints": 0.13,
     "steamId": "76561199141429254"
   },

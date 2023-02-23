@@ -1,26 +1,49 @@
 {
-  "2022-12-04": {
-    "name": "Offroad Rally",
-    "workshopId": "2889884004"
+  "events": {
+    "2022-12-04": {
+      "name": "Offroad Rally",
+      "workshopId": "2889884004"
+    },
+    "2023-01-08": {
+      "name": "Winter Wonderland",
+      "workshopId": "2906394833"
+    },
+    "2023-01-29": {
+      "name": "Construction",
+      "workshopId": "2918068529"
+    },
+    "2023-02-26": {
+      "name": "Omni Special",
+      "workshopId": "2932056556"
+    },
+    "2023-03-26": {
+      "name": "???",
+      "workshopId": ""
+    },
+    "2023-04-23": {
+      "name": "???",
+      "workshopId": ""
+    }
   },
-  "2023-01-08": {
-    "name": "Winter Wonderland",
-    "workshopId": "2906394833"
-  },
-  "2023-01-29": {
-    "name": "Construction",
-    "workshopId": "2918068529"
-  },
-  "2023-02-26": {
-    "name": "Omni Special",
-    "workshopId": "2932056556"
-  },
-  "2023-03-26": {
-    "name": "???",
-    "workshopId": ""
-  },
-  "2023-04-23": {
-    "name": "???",
-    "workshopId": ""
-  }
+  "points": [
+    25,
+    22,
+    20,
+    18,
+    16,
+    14,
+    13,
+    12,
+    11,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "finishPoints": 1
 }
