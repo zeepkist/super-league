@@ -1,266 +1,181 @@
 {
   "users": [
     {
-      "username": "Sandals",
-      "team": "CTR",
-      "totalPoints": 260,
-      "steamId": "76561198081356099"
-    },
-    {
       "username": "justMaki",
-      "totalPoints": 256,
+      "totalPoints": 243,
       "steamId": "76561198050792757"
-    },
-    {
-      "username": "Cbad Cruiser",
-      "team": "CTR",
-      "totalPoints": 235,
-      "steamId": "76561198161379363"
     },
     {
       "username": "jandje",
       "team": "CTR",
-      "totalPoints": 226,
+      "totalPoints": 215,
       "steamId": "76561198106476018"
+    },
+    {
+      "username": "Sandals",
+      "team": "CTR",
+      "totalPoints": 197,
+      "steamId": "76561198081356099"
+    },
+    {
+      "username": "ZOMAN",
+      "totalPoints": 173,
+      "steamId": "76561199126724675"
+    },
+    {
+      "username": "Cbad Cruiser",
+      "team": "CTR",
+      "totalPoints": 173,
+      "steamId": "76561198161379363"
+    },
+    {
+      "username": "Lightning",
+      "totalPoints": 158,
+      "steamId": "76561198847576929"
     },
     {
       "username": "OwlPlague",
       "team": "CTR",
-      "totalPoints": 214,
+      "totalPoints": 127,
       "steamId": "76561199173536675"
     },
     {
-      "username": "ZOMAN",
-      "totalPoints": 205,
-      "steamId": "76561199126724675"
+      "username": "RoundNzt",
+      "totalPoints": 125,
+      "steamId": "76561198896246339"
     },
     {
       "username": "VirusCookies",
-      "totalPoints": 205,
+      "totalPoints": 114,
       "steamId": "76561198155015234"
     },
     {
-      "username": "Lightning",
-      "totalPoints": 191,
-      "steamId": "76561198847576929"
-    },
-    {
-      "username": "RoundNzt",
-      "totalPoints": 168,
-      "steamId": "76561198896246339"
+      "username": "Lazy_Echidna",
+      "totalPoints": 106,
+      "steamId": "76561198008859132"
     },
     {
       "username": "Ragetoad.Kawaii",
       "team": "RTR",
-      "totalPoints": 150,
+      "totalPoints": 101,
       "steamId": "76561199230094250"
     },
     {
-      "username": "Lazy_Echidna",
-      "totalPoints": 150,
-      "steamId": "76561198008859132"
-    },
-    {
-      "username": "Rorroh",
-      "team": "CLMTY",
-      "totalPoints": 150,
-      "steamId": "76561198027978961"
-    },
-    {
-      "username": "L3it3R",
-      "totalPoints": 144,
-      "steamId": "76561197965640463"
-    },
-    {
-      "username": "AuroTheAzure",
-      "totalPoints": 117,
-      "steamId": "76561198079618904"
-    },
-    {
       "username": "AndMe14",
-      "totalPoints": 111,
+      "totalPoints": 60,
       "steamId": "76561198067925412"
     },
     {
       "username": "Hademar",
-      "totalPoints": 104,
+      "totalPoints": 54,
       "steamId": "76561198023336905"
     },
     {
-      "username": "Joshuee1912",
-      "totalPoints": 102,
-      "steamId": "76561198256080744"
-    },
-    {
-      "username": "Metalted",
-      "totalPoints": 82,
-      "steamId": "76561198932043314"
-    },
-    {
-      "username": "dirtyboy58",
-      "totalPoints": 80,
-      "steamId": "76561199217544926"
-    },
-    {
-      "username": "Frog Mime",
-      "totalPoints": 75,
-      "steamId": "76561198043268277"
-    },
-    {
       "username": "Warcans",
-      "totalPoints": 70,
+      "totalPoints": 44,
       "steamId": "76561198001387193"
     },
     {
+      "username": "L3it3R",
+      "totalPoints": 34,
+      "steamId": "76561197965640463"
+    },
+    {
+      "username": "Frog Mime",
+      "totalPoints": 32,
+      "steamId": "76561198043268277"
+    },
+    {
+      "username": "Rorroh",
+      "team": "CLMTY",
+      "totalPoints": 29,
+      "steamId": "76561198027978961"
+    },
+    {
+      "username": "Metalted",
+      "totalPoints": 26,
+      "steamId": "76561198932043314"
+    },
+    {
       "username": "nate69cam",
-      "totalPoints": 55,
+      "totalPoints": 25,
       "steamId": "76561198123116932"
     },
     {
+      "username": "Rigenix",
+      "totalPoints": 21,
+      "steamId": "76561198447684490"
+    },
+    {
       "username": "Diabler",
-      "totalPoints": 53,
+      "totalPoints": 20,
       "steamId": "76561197989028539"
     },
     {
-      "username": "Ebruis",
-      "totalPoints": 50,
-      "steamId": "76561199016181953"
-    },
-    {
-      "username": "invisiblecat8",
-      "totalPoints": 46,
-      "steamId": "76561198838593572"
+      "username": "AuroTheAzure",
+      "totalPoints": 20,
+      "steamId": "76561198079618904"
     },
     {
       "username": "Mokster",
-      "totalPoints": 37,
+      "totalPoints": 18,
       "steamId": "76561197979087520"
     },
     {
+      "username": "invisiblecat8",
+      "totalPoints": 17,
+      "steamId": "76561198838593572"
+    },
+    {
+      "username": "Ebruis",
+      "totalPoints": 16,
+      "steamId": "76561199016181953"
+    },
+    {
+      "username": "dirtyboy58",
+      "totalPoints": 14,
+      "steamId": "76561199217544926"
+    },
+    {
+      "username": "I_stay_sideways",
+      "totalPoints": 14,
+      "steamId": "76561198030459761"
+    },
+    {
       "username": "Akane",
-      "totalPoints": 35,
+      "totalPoints": 12,
       "steamId": "76561198031919228"
     },
     {
       "username": "rsgold",
       "team": "OR",
-      "totalPoints": 35,
+      "totalPoints": 12,
       "steamId": "76561199121464627"
     },
     {
-      "username": "uria8833 the cat",
-      "totalPoints": 33,
-      "steamId": "76561198146205647"
-    },
-    {
-      "username": "Rigenix",
-      "totalPoints": 32,
-      "steamId": "76561198447684490"
-    },
-    {
-      "username": "DragonBoi",
-      "totalPoints": 30,
-      "steamId": "76561198857826561"
-    },
-    {
-      "username": "Zarphus",
-      "totalPoints": 30,
-      "steamId": "76561197990087561"
-    },
-    {
-      "username": "V",
-      "totalPoints": 29,
-      "steamId": "76561198824105813"
-    },
-    {
-      "username": "groovy",
-      "totalPoints": 28,
-      "steamId": "76561199282497311"
-    },
-    {
-      "username": "MaxVerstappen9768",
-      "totalPoints": 25,
-      "steamId": "76561199247569114"
-    },
-    {
-      "username": "B-Unit",
-      "totalPoints": 21,
-      "steamId": "76561198128443715"
-    },
-    {
-      "username": "Bo0mSlAnG",
-      "totalPoints": 21,
-      "steamId": "76561198166830935"
-    },
-    {
-      "username": "Certified Bruh Moment™",
-      "totalPoints": 19,
-      "steamId": "76561198304929551"
-    },
-    {
-      "username": "monkey",
-      "totalPoints": 19,
-      "steamId": "76561198302369289"
-    },
-    {
       "username": "Kabs666",
-      "totalPoints": 18,
+      "totalPoints": 11,
       "steamId": "76561198109881901"
     },
     {
-      "username": "ttv/Lilly the Bun",
-      "totalPoints": 16,
-      "steamId": "76561198040976717"
-    },
-    {
-      "username": "Jakie Cash",
-      "totalPoints": 16,
-      "steamId": "76561198104372256"
-    },
-    {
-      "username": "Pickel",
-      "totalPoints": 16,
-      "steamId": "76561199162451829"
-    },
-    {
-      "username": "I_stay_sideways",
-      "totalPoints": 16,
-      "steamId": "76561198030459761"
-    },
-    {
-      "username": "RadiationMutt",
-      "totalPoints": 16,
-      "steamId": "76561198020002661"
-    },
-    {
-      "username": "noobwithnukes",
-      "totalPoints": 15,
-      "steamId": "76561199009305655"
-    },
-    {
       "username": "Arder",
-      "totalPoints": 14,
+      "totalPoints": 11,
       "steamId": "76561197996376845"
     },
     {
-      "username": "ThirdEyeInk",
-      "totalPoints": 14,
-      "steamId": "76561198020614715"
+      "username": "Joshuee1912",
+      "totalPoints": 11,
+      "steamId": "76561198256080744"
     },
     {
-      "username": "IstAviX",
-      "totalPoints": 14,
-      "steamId": "76561198317057262"
+      "username": "RadiationMutt",
+      "totalPoints": 11,
+      "steamId": "76561198020002661"
     },
     {
-      "username": "Wesley",
-      "totalPoints": 13,
-      "steamId": "76561198086671586"
-    },
-    {
-      "username": "tymbot",
-      "totalPoints": 12,
-      "steamId": "76561199050059333"
+      "username": "Certified Bruh Moment™",
+      "totalPoints": 10,
+      "steamId": "76561198304929551"
     },
     {
       "username": "Cold Deck? ...",
@@ -268,39 +183,59 @@
       "steamId": "76561198029508562"
     },
     {
+      "username": "ttv/Lilly the Bun",
+      "totalPoints": 10,
+      "steamId": "76561198040976717"
+    },
+    {
+      "username": "DragonBoi",
+      "totalPoints": 10,
+      "steamId": "76561198857826561"
+    },
+    {
+      "username": "V",
+      "totalPoints": 9,
+      "steamId": "76561198824105813"
+    },
+    {
       "username": "mumboking",
       "totalPoints": 8,
       "steamId": "76561198011349021"
     },
     {
-      "username": "Otto von Mannerheim",
-      "totalPoints": 8,
-      "steamId": "76561198007001392"
-    },
-    {
-      "username": "really_random_name",
-      "totalPoints": 8,
-      "steamId": "76561199345647079"
-    },
-    {
-      "username": "bdeink",
+      "username": "Bo0mSlAnG",
       "totalPoints": 7,
-      "steamId": "76561198048821347"
+      "steamId": "76561198166830935"
     },
     {
-      "username": "sander.zwanikken",
-      "totalPoints": 6,
-      "steamId": "76561198335633939"
+      "username": "IstAviX",
+      "totalPoints": 7,
+      "steamId": "76561198317057262"
     },
     {
-      "username": "Boogie Bear",
+      "username": "Wesley",
       "totalPoints": 6,
-      "steamId": "76561198033482669"
+      "steamId": "76561198086671586"
     },
     {
-      "username": "Flames1099",
+      "username": "Jakie Cash",
       "totalPoints": 6,
-      "steamId": "76561199230056823"
+      "steamId": "76561198104372256"
+    },
+    {
+      "username": "noobwithnukes",
+      "totalPoints": 6,
+      "steamId": "76561199009305655"
+    },
+    {
+      "username": "Pickel",
+      "totalPoints": 5,
+      "steamId": "76561199162451829"
+    },
+    {
+      "username": "groovy",
+      "totalPoints": 5,
+      "steamId": "76561199282497311"
     },
     {
       "username": "6X111",
@@ -313,9 +248,14 @@
       "steamId": "76561198000493194"
     },
     {
-      "username": "MissMomo<3",
+      "username": "uria8833 the cat",
       "totalPoints": 4,
-      "steamId": "76561199218029567"
+      "steamId": "76561198146205647"
+    },
+    {
+      "username": "Boogie Bear",
+      "totalPoints": 4,
+      "steamId": "76561198033482669"
     },
     {
       "username": "SikeDollaz",
@@ -323,9 +263,9 @@
       "steamId": "76561198109618759"
     },
     {
-      "username": "Thundernerd",
-      "totalPoints": 3,
-      "steamId": "76561198023561976"
+      "username": "Zarphus",
+      "totalPoints": 4,
+      "steamId": "76561197990087561"
     },
     {
       "username": "(..)Mercy",
@@ -338,6 +278,11 @@
       "steamId": "76561198075107412"
     },
     {
+      "username": "MissMomo<3",
+      "totalPoints": 3,
+      "steamId": "76561199218029567"
+    },
+    {
       "username": "Massagraf",
       "totalPoints": 3,
       "steamId": "76561198139937395"
@@ -348,14 +293,39 @@
       "steamId": "76561198835392996"
     },
     {
+      "username": "Flames1099",
+      "totalPoints": 3,
+      "steamId": "76561199230056823"
+    },
+    {
+      "username": "Thundernerd",
+      "totalPoints": 2,
+      "steamId": "76561198023561976"
+    },
+    {
       "username": "MOW BIG T",
       "totalPoints": 2,
       "steamId": "76561198019079245"
     },
     {
+      "username": "B-Unit",
+      "totalPoints": 2,
+      "steamId": "76561198128443715"
+    },
+    {
       "username": "MatieBoyYT",
       "totalPoints": 2,
       "steamId": "76561199121770655"
+    },
+    {
+      "username": "MaxVerstappen9768",
+      "totalPoints": 2,
+      "steamId": "76561199247569114"
+    },
+    {
+      "username": "ThirdEyeInk",
+      "totalPoints": 2,
+      "steamId": "76561198020614715"
     },
     {
       "username": "Rik",
@@ -368,6 +338,16 @@
       "steamId": "76561198992498796"
     },
     {
+      "username": "really_random_name",
+      "totalPoints": 2,
+      "steamId": "76561199345647079"
+    },
+    {
+      "username": "tymbot",
+      "totalPoints": 2,
+      "steamId": "76561199050059333"
+    },
+    {
       "username": "JunkJen",
       "totalPoints": 2,
       "steamId": "76561198017223402"
@@ -378,9 +358,19 @@
       "steamId": "76561198888882991"
     },
     {
+      "username": "monkey",
+      "totalPoints": 2,
+      "steamId": "76561198302369289"
+    },
+    {
       "username": "Den",
       "totalPoints": 1,
       "steamId": "76561198004372346"
+    },
+    {
+      "username": "Otto von Mannerheim",
+      "totalPoints": 1,
+      "steamId": "76561198007001392"
     },
     {
       "username": "tjalfe",
@@ -398,9 +388,19 @@
       "steamId": "76561198285710168"
     },
     {
+      "username": "sander.zwanikken",
+      "totalPoints": 1,
+      "steamId": "76561198335633939"
+    },
+    {
       "username": "PontanVIK",
       "totalPoints": 1,
       "steamId": "76561198803005218"
+    },
+    {
+      "username": "bdeink",
+      "totalPoints": 1,
+      "steamId": "76561198048821347"
     },
     {
       "username": "TrainNerd09",
@@ -430,7 +430,7 @@
   ],
   "levels": [
     {
-      "level": "05012023-231755689-Ultimate Billy-507969369980-3571_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "05012023-231755689-Ultimate Billy-507969369980-3571",
       "standings": [
         {
           "steamId": "76561198106476018",
@@ -446,94 +446,146 @@
           "username": "justMaki"
         },
         {
+          "steamId": "76561198161379363",
+          "time": 60.83963,
+          "points": 20,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561198896246339",
           "time": 61.13108,
-          "points": 20,
+          "points": 18,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561199230094250",
           "time": 61.17429,
-          "points": 18,
+          "points": 16,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
           "steamId": "76561198847576929",
           "time": 61.30557,
-          "points": 16,
+          "points": 14,
           "username": "Lightning"
         },
         {
           "steamId": "76561199126724675",
           "time": 61.40884,
-          "points": 14,
+          "points": 13,
           "username": "ZOMAN"
+        },
+        {
+          "steamId": "76561198081356099",
+          "time": 61.56835,
+          "points": 12,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 61.5826,
+          "points": 11,
+          "username": "OwlPlague",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 61.84067,
+          "points": 9,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561198043268277",
           "time": 61.85162,
-          "points": 13,
+          "points": 8,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561198067925412",
           "time": 61.91898,
-          "points": 12,
+          "points": 7,
           "username": "AndMe14"
+        },
+        {
+          "steamId": "76561198104372256",
+          "time": 61.97046,
+          "points": 6,
+          "username": "Jakie Cash"
         },
         {
           "steamId": "76561198008859132",
           "time": 62.17266,
-          "points": 11,
+          "points": 5,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561198023336905",
           "time": 62.37554,
-          "points": 9,
+          "points": 4,
           "username": "Hademar"
+        },
+        {
+          "steamId": "76561198857826561",
+          "time": 63.24808,
+          "points": 3,
+          "username": "DragonBoi"
         },
         {
           "steamId": "76561199016181953",
           "time": 63.50779,
-          "points": 8,
+          "points": 2,
           "username": "Ebruis"
         },
         {
           "steamId": "76561198932043314",
           "time": 63.55643,
-          "points": 7,
+          "points": 1,
           "username": "Metalted"
         },
         {
           "steamId": "76561197979087520",
           "time": 63.65137,
-          "points": 6,
+          "points": 1,
           "username": "Mokster"
         },
         {
           "steamId": "76561198031919228",
           "time": 64.32018,
-          "points": 5,
+          "points": 1,
           "username": "Akane"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 64.70579,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561197989028539",
           "time": 64.73326,
-          "points": 4,
+          "points": 1,
           "username": "Diabler"
         },
         {
           "steamId": "76561198838593572",
           "time": 65.03491,
-          "points": 3,
+          "points": 1,
           "username": "invisiblecat8"
+        },
+        {
+          "steamId": "76561198128443715",
+          "time": 65.69166,
+          "points": 1,
+          "username": "B-Unit"
         },
         {
           "steamId": "76561198023561976",
           "time": 66.05386,
-          "points": 2,
+          "points": 1,
           "username": "Thundernerd"
         },
         {
@@ -559,6 +611,12 @@
           "time": 66.85781,
           "points": 1,
           "username": "nate69cam"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 67.38562,
+          "points": 1,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198029508562",
@@ -607,183 +665,172 @@
           "time": 69.35814,
           "points": 1,
           "username": "MOW BIG T"
-        }
-      ]
-    },
-    {
-      "level": "05012023-231755689-Ultimate Billy-507969369980-3571_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198161379363",
-          "time": 60.83963,
-          "points": 25,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198081356099",
-          "time": 61.56835,
-          "points": 22,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 61.5826,
-          "points": 20,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 61.84067,
-          "points": 18,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561198104372256",
-          "time": 61.97046,
-          "points": 16,
-          "username": "Jakie Cash"
-        },
-        {
-          "steamId": "76561198857826561",
-          "time": 63.24808,
-          "points": 14,
-          "username": "DragonBoi"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 64.70579,
-          "points": 13,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198128443715",
-          "time": 65.69166,
-          "points": 12,
-          "username": "B-Unit"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 67.38562,
-          "points": 11,
-          "username": "L3it3R"
         },
         {
           "steamId": "76561198256080744",
           "time": 74.10938,
-          "points": 9,
+          "points": 1,
           "username": "Joshuee1912"
         }
       ]
     },
     {
-      "level": "14012023-020430361-justMaki-329659990152-3330_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "14012023-020430361-justMaki-329659990152-3330",
       "standings": [
+        {
+          "steamId": "76561198081356099",
+          "time": 51.88376,
+          "points": 25,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 52.14032,
+          "points": 22,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
+        },
         {
           "steamId": "76561198050792757",
           "time": 52.48742,
-          "points": 25,
+          "points": 20,
           "username": "justMaki"
         },
         {
           "steamId": "76561198106476018",
           "time": 52.56226,
-          "points": 22,
+          "points": 18,
           "username": "jandje",
           "team": "CTR"
         },
         {
+          "steamId": "76561198155015234",
+          "time": 52.68824,
+          "points": 16,
+          "username": "VirusCookies"
+        },
+        {
           "steamId": "76561199126724675",
           "time": 52.96147,
-          "points": 20,
+          "points": 14,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561198896246339",
           "time": 53.24936,
-          "points": 18,
+          "points": 13,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561198008859132",
           "time": 53.31219,
-          "points": 16,
+          "points": 12,
           "username": "Lazy_Echidna"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 53.53821,
+          "points": 11,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561199230094250",
           "time": 53.6344,
-          "points": 14,
+          "points": 9,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
           "steamId": "76561198847576929",
           "time": 53.94846,
-          "points": 13,
+          "points": 8,
           "username": "Lightning"
+        },
+        {
+          "steamId": "76561198857826561",
+          "time": 54.07121,
+          "points": 7,
+          "username": "DragonBoi"
         },
         {
           "steamId": "76561198067925412",
           "time": 54.64111,
-          "points": 12,
+          "points": 6,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198043268277",
           "time": 54.65883,
-          "points": 11,
+          "points": 5,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561199016181953",
           "time": 54.78836,
-          "points": 9,
+          "points": 4,
           "username": "Ebruis"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 54.90834,
+          "points": 3,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198932043314",
           "time": 54.98154,
-          "points": 8,
+          "points": 2,
           "username": "Metalted"
         },
         {
           "steamId": "76561197989028539",
           "time": 55.02025,
-          "points": 7,
+          "points": 1,
           "username": "Diabler"
         },
         {
           "steamId": "76561198023336905",
           "time": 55.60992,
-          "points": 6,
+          "points": 1,
           "username": "Hademar"
         },
         {
           "steamId": "76561198086671586",
           "time": 55.77117,
-          "points": 5,
+          "points": 1,
           "username": "Wesley"
+        },
+        {
+          "steamId": "76561199247569114",
+          "time": 55.9184,
+          "points": 1,
+          "username": "MaxVerstappen9768"
         },
         {
           "steamId": "76561198838593572",
           "time": 56.34481,
-          "points": 4,
+          "points": 1,
           "username": "invisiblecat8"
         },
         {
           "steamId": "76561198123116932",
           "time": 56.49401,
-          "points": 3,
+          "points": 1,
           "username": "nate69cam"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 56.93385,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561197996376845",
           "time": 57.16276,
-          "points": 2,
+          "points": 1,
           "username": "Arder"
         },
         {
@@ -803,6 +850,12 @@
           "time": 57.44743,
           "points": 1,
           "username": "ttv/Lilly the Bun"
+        },
+        {
+          "steamId": "76561198256080744",
+          "time": 57.5433,
+          "points": 1,
+          "username": "Joshuee1912"
         },
         {
           "steamId": "76561198304929551",
@@ -829,6 +882,18 @@
           "username": "Akane"
         },
         {
+          "steamId": "76561198128443715",
+          "time": 60.73107,
+          "points": 1,
+          "username": "B-Unit"
+        },
+        {
+          "steamId": "76561198007001392",
+          "time": 61.12589,
+          "points": 1,
+          "username": "Otto von Mannerheim"
+        },
+        {
           "steamId": "76561199121770655",
           "time": 70.0388,
           "points": 1,
@@ -837,82 +902,7 @@
       ]
     },
     {
-      "level": "14012023-020430361-justMaki-329659990152-3330_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198081356099",
-          "time": 51.88376,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 52.14032,
-          "points": 22,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 52.68824,
-          "points": 20,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 53.53821,
-          "points": 18,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198857826561",
-          "time": 54.07121,
-          "points": 16,
-          "username": "DragonBoi"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 54.90834,
-          "points": 14,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561199247569114",
-          "time": 55.9184,
-          "points": 13,
-          "username": "MaxVerstappen9768"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 56.93385,
-          "points": 12,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 57.5433,
-          "points": 11,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561198128443715",
-          "time": 60.73107,
-          "points": 9,
-          "username": "B-Unit"
-        },
-        {
-          "steamId": "76561198007001392",
-          "time": 61.12589,
-          "points": 8,
-          "username": "Otto von Mannerheim"
-        }
-      ]
-    },
-    {
-      "level": "29122022-134350681-Llama_Lordie-773425134980-789_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "29122022-134350681-Llama_Lordie-773425134980-789",
       "standings": [
         {
           "steamId": "76561198050792757",
@@ -921,101 +911,135 @@
           "username": "justMaki"
         },
         {
+          "steamId": "76561198161379363",
+          "time": 45.91862,
+          "points": 22,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561199126724675",
           "time": 45.96038,
-          "points": 22,
+          "points": 20,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561198106476018",
           "time": 46.10791,
-          "points": 20,
+          "points": 18,
           "username": "jandje",
           "team": "CTR"
         },
         {
           "steamId": "76561199230094250",
           "time": 46.16243,
-          "points": 18,
+          "points": 16,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 46.21996,
+          "points": 14,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561198896246339",
           "time": 46.27351,
-          "points": 16,
+          "points": 13,
           "username": "RoundNzt"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 46.34488,
+          "points": 12,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561198447684490",
           "time": 46.37626,
-          "points": 14,
+          "points": 11,
           "username": "Rigenix"
         },
         {
           "steamId": "76561198847576929",
           "time": 46.41998,
-          "points": 13,
+          "points": 9,
           "username": "Lightning"
         },
         {
           "steamId": "76561198008859132",
           "time": 46.46466,
-          "points": 12,
+          "points": 8,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561198067925412",
           "time": 46.47753,
-          "points": 11,
+          "points": 7,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198043268277",
           "time": 46.61417,
-          "points": 9,
+          "points": 6,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561197989028539",
           "time": 46.64523,
-          "points": 8,
+          "points": 5,
           "username": "Diabler"
         },
         {
           "steamId": "76561199016181953",
           "time": 46.75449,
-          "points": 7,
+          "points": 4,
           "username": "Ebruis"
         },
         {
           "steamId": "76561198838593572",
           "time": 46.78682,
-          "points": 6,
+          "points": 3,
           "username": "invisiblecat8"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 46.86772,
+          "points": 2,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198023336905",
           "time": 46.89578,
-          "points": 5,
+          "points": 1,
           "username": "Hademar"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 46.99399,
+          "points": 1,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561198166830935",
           "time": 47.06288,
-          "points": 4,
+          "points": 1,
           "username": "Bo0mSlAnG"
         },
         {
           "steamId": "76561198040976717",
           "time": 47.07087,
-          "points": 3,
+          "points": 1,
           "username": "ttv/Lilly the Bun"
         },
         {
           "steamId": "76561198932043314",
           "time": 47.22308,
-          "points": 2,
+          "points": 1,
           "username": "Metalted"
         },
         {
@@ -1049,6 +1073,12 @@
           "username": "Akane"
         },
         {
+          "steamId": "76561197965640463",
+          "time": 47.58797,
+          "points": 1,
+          "username": "L3it3R"
+        },
+        {
           "steamId": "76561198109881901",
           "time": 47.76952,
           "points": 1,
@@ -1059,6 +1089,12 @@
           "time": 47.85038,
           "points": 1,
           "username": "Cold Deck? ..."
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 47.86113,
+          "points": 1,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561199162451829",
@@ -1077,6 +1113,30 @@
           "time": 48.41933,
           "points": 1,
           "username": "(..)Mercy"
+        },
+        {
+          "steamId": "76561199247569114",
+          "time": 48.47587,
+          "points": 1,
+          "username": "MaxVerstappen9768"
+        },
+        {
+          "steamId": "76561198256080744",
+          "time": 48.62134,
+          "points": 1,
+          "username": "Joshuee1912"
+        },
+        {
+          "steamId": "76561199217544926",
+          "time": 48.72661,
+          "points": 1,
+          "username": "dirtyboy58"
+        },
+        {
+          "steamId": "76561198146205647",
+          "time": 48.77946,
+          "points": 1,
+          "username": "uria8833 the cat"
         },
         {
           "steamId": "76561199121923263",
@@ -1113,98 +1173,23 @@
           "time": 49.87978,
           "points": 1,
           "username": "dencar85"
-        }
-      ]
-    },
-    {
-      "level": "29122022-134350681-Llama_Lordie-773425134980-789_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198161379363",
-          "time": 45.91862,
-          "points": 25,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198081356099",
-          "time": 46.21996,
-          "points": 22,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 46.34488,
-          "points": 20,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 46.86772,
-          "points": 18,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 46.99399,
-          "points": 16,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 47.58797,
-          "points": 14,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 47.86113,
-          "points": 13,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561199247569114",
-          "time": 48.47587,
-          "points": 12,
-          "username": "MaxVerstappen9768"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 48.62134,
-          "points": 11,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 48.72661,
-          "points": 9,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561198146205647",
-          "time": 48.77946,
-          "points": 8,
-          "username": "uria8833 the cat"
         },
         {
           "steamId": "76561199282497311",
           "time": 49.93679,
-          "points": 7,
+          "points": 1,
           "username": "groovy"
         },
         {
           "steamId": "76561198020614715",
           "time": 50.95146,
-          "points": 6,
+          "points": 1,
           "username": "ThirdEyeInk"
         }
       ]
     },
     {
-      "level": "08012023-182457392-Khord-201844788668-413_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "08012023-182457392-Khord-201844788668-413",
       "standings": [
         {
           "steamId": "76561198106476018",
@@ -1214,100 +1199,146 @@
           "team": "CTR"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 30.56305,
+          "points": 22,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561198050792757",
           "time": 30.80357,
-          "points": 22,
+          "points": 20,
           "username": "justMaki"
         },
         {
           "steamId": "76561199126724675",
           "time": 31.39545,
-          "points": 20,
+          "points": 18,
           "username": "ZOMAN"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 31.44319,
+          "points": 16,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
         },
         {
           "steamId": "76561198023336905",
           "time": 31.6566,
-          "points": 18,
+          "points": 14,
           "username": "Hademar"
         },
         {
           "steamId": "76561198896246339",
           "time": 31.70475,
-          "points": 16,
+          "points": 13,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561198847576929",
           "time": 31.80591,
-          "points": 14,
+          "points": 12,
           "username": "Lightning"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 32.09904,
+          "points": 11,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561198447684490",
           "time": 32.10256,
-          "points": 13,
+          "points": 9,
           "username": "Rigenix"
         },
         {
           "steamId": "76561199230094250",
           "time": 32.10278,
-          "points": 12,
+          "points": 8,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
+          "steamId": "76561198155015234",
+          "time": 32.38328,
+          "points": 7,
+          "username": "VirusCookies"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 32.49155,
+          "points": 6,
+          "username": "AuroTheAzure"
+        },
+        {
           "steamId": "76561198932043314",
           "time": 32.64982,
-          "points": 11,
+          "points": 5,
           "username": "Metalted"
+        },
+        {
+          "steamId": "76561199016181953",
+          "time": 32.68184,
+          "points": 4,
+          "username": "Ebruis"
         },
         {
           "steamId": "76561198031919228",
           "time": 32.85095,
-          "points": 9,
+          "points": 3,
           "username": "Akane"
         },
         {
           "steamId": "76561198008859132",
           "time": 32.88799,
-          "points": 8,
+          "points": 2,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561198043268277",
           "time": 33.02037,
-          "points": 7,
+          "points": 1,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561198166830935",
           "time": 33.19621,
-          "points": 6,
+          "points": 1,
           "username": "Bo0mSlAnG"
         },
         {
           "steamId": "76561198123116932",
           "time": 33.19942,
-          "points": 5,
+          "points": 1,
           "username": "nate69cam"
         },
         {
           "steamId": "76561197979087520",
           "time": 33.58014,
-          "points": 4,
+          "points": 1,
           "username": "Mokster"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 34.08552,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198304929551",
           "time": 34.42459,
-          "points": 3,
+          "points": 1,
           "username": "Certified Bruh Moment™"
         },
         {
           "steamId": "76561198086671586",
           "time": 34.62158,
-          "points": 2,
+          "points": 1,
           "username": "Wesley"
         },
         {
@@ -1341,6 +1372,18 @@
           "username": "Arder"
         },
         {
+          "steamId": "76561199217544926",
+          "time": 37.19906,
+          "points": 1,
+          "username": "dirtyboy58"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 37.2417,
+          "points": 1,
+          "username": "L3it3R"
+        },
+        {
           "steamId": "76561198029508562",
           "time": 37.68998,
           "points": 1,
@@ -1365,10 +1408,40 @@
           "username": "Rik"
         },
         {
+          "steamId": "76561198256080744",
+          "time": 43.99977,
+          "points": 1,
+          "username": "Joshuee1912"
+        },
+        {
+          "steamId": "76561198020614715",
+          "time": 45.41991,
+          "points": 1,
+          "username": "ThirdEyeInk"
+        },
+        {
+          "steamId": "76561198146205647",
+          "time": 46.21385,
+          "points": 1,
+          "username": "uria8833 the cat"
+        },
+        {
           "steamId": "76561197998611568",
           "time": 47.09531,
           "points": 1,
           "username": "6X111"
+        },
+        {
+          "steamId": "76561198335633939",
+          "time": 48.88625,
+          "points": 1,
+          "username": "sander.zwanikken"
+        },
+        {
+          "steamId": "76561199282497311",
+          "time": 53.40037,
+          "points": 1,
+          "username": "groovy"
         },
         {
           "steamId": "76561198992498796",
@@ -1379,100 +1452,7 @@
       ]
     },
     {
-      "level": "08012023-182457392-Khord-201844788668-413_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198081356099",
-          "time": 30.56305,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 31.44319,
-          "points": 22,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 32.09904,
-          "points": 20,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 32.38328,
-          "points": 18,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 32.49155,
-          "points": 16,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561199016181953",
-          "time": 32.68184,
-          "points": 14,
-          "username": "Ebruis"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 34.08552,
-          "points": 13,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 37.19906,
-          "points": 12,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 37.2417,
-          "points": 11,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 43.99977,
-          "points": 9,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561198020614715",
-          "time": 45.41991,
-          "points": 8,
-          "username": "ThirdEyeInk"
-        },
-        {
-          "steamId": "76561198146205647",
-          "time": 46.21385,
-          "points": 7,
-          "username": "uria8833 the cat"
-        },
-        {
-          "steamId": "76561198335633939",
-          "time": 48.88625,
-          "points": 6,
-          "username": "sander.zwanikken"
-        },
-        {
-          "steamId": "76561199282497311",
-          "time": 53.40037,
-          "points": 5,
-          "username": "groovy"
-        }
-      ]
-    },
-    {
-      "level": "09012023-164014652-Certified Bruh Moment™-462181639413-223_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "09012023-164014652-Certified Bruh Moment™-462181639413-223",
       "standings": [
         {
           "steamId": "76561198050792757",
@@ -1494,88 +1474,140 @@
           "team": "CTR"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 31.00541,
+          "points": 18,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561199230094250",
           "time": 31.12175,
-          "points": 18,
+          "points": 16,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
           "steamId": "76561198896246339",
           "time": 31.14104,
-          "points": 16,
+          "points": 14,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561198008859132",
           "time": 31.27537,
-          "points": 14,
+          "points": 13,
           "username": "Lazy_Echidna"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 31.4828,
+          "points": 12,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561199126724675",
           "time": 31.55017,
-          "points": 13,
+          "points": 11,
           "username": "ZOMAN"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 31.55339,
+          "points": 9,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 31.613,
+          "points": 8,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561198023336905",
           "time": 31.61538,
-          "points": 12,
+          "points": 7,
           "username": "Hademar"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 31.62018,
+          "points": 6,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198166830935",
           "time": 31.75031,
-          "points": 11,
+          "points": 5,
           "username": "Bo0mSlAnG"
         },
         {
           "steamId": "76561198043268277",
           "time": 31.77015,
-          "points": 9,
+          "points": 4,
           "username": "Frog Mime"
+        },
+        {
+          "steamId": "76561199217544926",
+          "time": 31.79863,
+          "points": 3,
+          "username": "dirtyboy58"
         },
         {
           "steamId": "76561198123116932",
           "time": 31.814,
-          "points": 8,
+          "points": 2,
           "username": "nate69cam"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 31.95456,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198932043314",
           "time": 32.0571,
-          "points": 7,
+          "points": 1,
           "username": "Metalted"
         },
         {
           "steamId": "76561199162451829",
           "time": 32.07059,
-          "points": 6,
+          "points": 1,
           "username": "Pickel"
         },
         {
           "steamId": "76561198447684490",
           "time": 32.14428,
-          "points": 5,
+          "points": 1,
           "username": "Rigenix"
         },
         {
           "steamId": "76561198031919228",
           "time": 32.29296,
-          "points": 4,
+          "points": 1,
           "username": "Akane"
         },
         {
           "steamId": "76561198109881901",
           "time": 32.3268,
-          "points": 3,
+          "points": 1,
           "username": "Kabs666"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 32.3378,
+          "points": 1,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561198824105813",
           "time": 32.34922,
-          "points": 2,
+          "points": 1,
           "username": "V"
         },
         {
@@ -1597,10 +1629,22 @@
           "username": "invisiblecat8"
         },
         {
+          "steamId": "76561199016181953",
+          "time": 32.64046,
+          "points": 1,
+          "username": "Ebruis"
+        },
+        {
           "steamId": "76561198086671586",
           "time": 32.70139,
           "points": 1,
           "username": "Wesley"
+        },
+        {
+          "steamId": "76561198146205647",
+          "time": 32.81033,
+          "points": 1,
+          "username": "uria8833 the cat"
         },
         {
           "steamId": "76561197996376845",
@@ -1627,10 +1671,22 @@
           "username": "Diabler"
         },
         {
+          "steamId": "76561198256080744",
+          "time": 33.16961,
+          "points": 1,
+          "username": "Joshuee1912"
+        },
+        {
           "steamId": "76561198040976717",
           "time": 33.179,
           "points": 1,
           "username": "ttv/Lilly the Bun"
+        },
+        {
+          "steamId": "76561198048821347",
+          "time": 33.26252,
+          "points": 1,
+          "username": "bdeink"
         },
         {
           "steamId": "76561198803005218",
@@ -1685,98 +1741,17 @@
           "time": 36.86594,
           "points": 1,
           "username": "Squander"
-        }
-      ]
-    },
-    {
-      "level": "09012023-164014652-Certified Bruh Moment™-462181639413-223_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198081356099",
-          "time": 31.00541,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 31.4828,
-          "points": 22,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 31.55339,
-          "points": 20,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 31.613,
-          "points": 18,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 31.62018,
-          "points": 16,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 31.79863,
-          "points": 14,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 31.95456,
-          "points": 13,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 32.3378,
-          "points": 12,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561199016181953",
-          "time": 32.64046,
-          "points": 11,
-          "username": "Ebruis"
-        },
-        {
-          "steamId": "76561198146205647",
-          "time": 32.81033,
-          "points": 9,
-          "username": "uria8833 the cat"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 33.16961,
-          "points": 8,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561198048821347",
-          "time": 33.26252,
-          "points": 7,
-          "username": "bdeink"
         },
         {
           "steamId": "76561199282497311",
           "time": 40.6297,
-          "points": 6,
+          "points": 1,
           "username": "groovy"
         }
       ]
     },
     {
-      "level": "15012023-233752924-ttv_jandjetv-045566035409-6281_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "15012023-233752924-ttv_jandjetv-045566035409-6281",
       "standings": [
         {
           "steamId": "76561198050792757",
@@ -1792,95 +1767,141 @@
           "team": "CTR"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 54.99969,
+          "points": 20,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561198847576929",
           "time": 55.03486,
-          "points": 20,
+          "points": 18,
           "username": "Lightning"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 55.27227,
+          "points": 16,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
         },
         {
           "steamId": "76561199126724675",
           "time": 55.39615,
-          "points": 18,
+          "points": 14,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561199230094250",
           "time": 55.5582,
-          "points": 16,
+          "points": 13,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
+          "steamId": "76561198155015234",
+          "time": 55.67103,
+          "points": 12,
+          "username": "VirusCookies"
+        },
+        {
           "steamId": "76561198008859132",
           "time": 55.67453,
-          "points": 14,
+          "points": 11,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561198896246339",
           "time": 55.67878,
-          "points": 13,
+          "points": 9,
           "username": "RoundNzt"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 56.01361,
+          "points": 8,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561198067925412",
           "time": 56.10234,
-          "points": 12,
+          "points": 7,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198123116932",
           "time": 56.30615,
-          "points": 11,
+          "points": 6,
           "username": "nate69cam"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 56.33768,
+          "points": 5,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561199121464627",
           "time": 56.58925,
-          "points": 9,
+          "points": 4,
           "username": "rsgold",
           "team": "OR"
         },
         {
           "steamId": "76561198043268277",
           "time": 56.67233,
-          "points": 8,
+          "points": 3,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561198824105813",
           "time": 57.15217,
-          "points": 7,
+          "points": 2,
           "username": "V"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 57.2369,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 57.36433,
+          "points": 1,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561198023336905",
           "time": 57.36832,
-          "points": 6,
+          "points": 1,
           "username": "Hademar"
         },
         {
           "steamId": "76561198932043314",
           "time": 57.42843,
-          "points": 5,
+          "points": 1,
           "username": "Metalted"
         },
         {
           "steamId": "76561199009305655",
           "time": 58.01239,
-          "points": 4,
+          "points": 1,
           "username": "noobwithnukes"
         },
         {
           "steamId": "76561198086671586",
           "time": 58.25092,
-          "points": 3,
+          "points": 1,
           "username": "Wesley"
         },
         {
           "steamId": "76561197996376845",
           "time": 58.28736,
-          "points": 2,
+          "points": 1,
           "username": "Arder"
         },
         {
@@ -1920,6 +1941,12 @@
           "username": "Pickel"
         },
         {
+          "steamId": "76561198256080744",
+          "time": 60.85825,
+          "points": 1,
+          "username": "Joshuee1912"
+        },
+        {
           "steamId": "76561198109881901",
           "time": 61.24464,
           "points": 1,
@@ -1938,10 +1965,22 @@
           "username": "IstAviX"
         },
         {
+          "steamId": "76561199217544926",
+          "time": 63.49447,
+          "points": 1,
+          "username": "dirtyboy58"
+        },
+        {
           "steamId": "76561198040976717",
           "time": 63.68071,
           "points": 1,
           "username": "ttv/Lilly the Bun"
+        },
+        {
+          "steamId": "76561198146205647",
+          "time": 64.29759,
+          "points": 1,
+          "username": "uria8833 the cat"
         },
         {
           "steamId": "76561198029508562",
@@ -1964,180 +2003,157 @@
       ]
     },
     {
-      "level": "15012023-233752924-ttv_jandjetv-045566035409-6281_Zeepkist Super League - Construction (Room 2).csv",
+      "level": "14012023-005154149-St Nicholas-283059681524-681",
       "standings": [
         {
-          "steamId": "76561198081356099",
-          "time": 54.99969,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
           "steamId": "76561198161379363",
-          "time": 55.27227,
-          "points": 22,
+          "time": 46.10723,
+          "points": 25,
           "username": "Cbad Cruiser",
           "team": "CTR"
         },
         {
-          "steamId": "76561198155015234",
-          "time": 55.67103,
-          "points": 20,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 56.01361,
-          "points": 18,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 56.33768,
-          "points": 16,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 57.2369,
-          "points": 14,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 57.36433,
-          "points": 13,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 60.85825,
-          "points": 12,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 63.49447,
-          "points": 11,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561198146205647",
-          "time": 64.29759,
-          "points": 9,
-          "username": "uria8833 the cat"
-        }
-      ]
-    },
-    {
-      "level": "14012023-005154149-St Nicholas-283059681524-681_Zeepkist Super League - Construction (Room 1).csv",
-      "standings": [
-        {
           "steamId": "76561198106476018",
           "time": 46.25369,
-          "points": 25,
+          "points": 22,
           "username": "jandje",
           "team": "CTR"
         },
         {
           "steamId": "76561198050792757",
           "time": 46.25806,
-          "points": 22,
+          "points": 20,
           "username": "justMaki"
         },
         {
           "steamId": "76561198896246339",
           "time": 46.32544,
-          "points": 20,
+          "points": 18,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561199126724675",
           "time": 46.45333,
-          "points": 18,
+          "points": 16,
           "username": "ZOMAN"
+        },
+        {
+          "steamId": "76561198081356099",
+          "time": 46.58838,
+          "points": 14,
+          "username": "Sandals",
+          "team": "CTR"
         },
         {
           "steamId": "76561198847576929",
           "time": 46.6106,
-          "points": 16,
+          "points": 13,
           "username": "Lightning"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 46.72018,
+          "points": 12,
+          "username": "OwlPlague",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 47.05652,
+          "points": 11,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198023336905",
           "time": 47.0764,
-          "points": 14,
+          "points": 9,
           "username": "Hademar"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 47.12033,
+          "points": 8,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561199230094250",
           "time": 47.15783,
-          "points": 13,
+          "points": 7,
           "username": "Ragetoad.Kawaii",
           "team": "RTR"
         },
         {
           "steamId": "76561198067925412",
           "time": 47.16004,
-          "points": 12,
+          "points": 6,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198008859132",
           "time": 47.17839,
-          "points": 11,
+          "points": 5,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561197989028539",
           "time": 47.46475,
-          "points": 9,
+          "points": 4,
           "username": "Diabler"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 47.56528,
+          "points": 3,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561199121464627",
           "time": 47.60718,
-          "points": 8,
+          "points": 2,
           "username": "rsgold",
           "team": "OR"
         },
         {
           "steamId": "76561198932043314",
           "time": 47.67337,
-          "points": 7,
+          "points": 1,
           "username": "Metalted"
         },
         {
           "steamId": "76561198838593572",
           "time": 47.82787,
-          "points": 6,
+          "points": 1,
           "username": "invisiblecat8"
         },
         {
           "steamId": "76561198123116932",
           "time": 48.09695,
-          "points": 5,
+          "points": 1,
           "username": "nate69cam"
         },
         {
           "steamId": "76561198043268277",
           "time": 48.18471,
-          "points": 4,
+          "points": 1,
           "username": "Frog Mime"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 48.21247,
+          "points": 1,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561197979087520",
           "time": 49.31684,
-          "points": 3,
+          "points": 1,
           "username": "Mokster"
         },
         {
           "steamId": "76561199218029567",
           "time": 49.57394,
-          "points": 2,
+          "points": 1,
           "username": "MissMomo<3"
         },
         {
@@ -2157,68 +2173,17 @@
           "time": 51.54368,
           "points": 1,
           "username": "Kabs666"
-        }
-      ]
-    },
-    {
-      "level": "14012023-005154149-St Nicholas-283059681524-681_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198161379363",
-          "time": 46.10723,
-          "points": 25,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198081356099",
-          "time": 46.58838,
-          "points": 22,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 46.72018,
-          "points": 20,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 47.05652,
-          "points": 18,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 47.12033,
-          "points": 16,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 47.56528,
-          "points": 14,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 48.21247,
-          "points": 13,
-          "username": "L3it3R"
         },
         {
           "steamId": "76561198256080744",
           "time": 55.81205,
-          "points": 12,
+          "points": 1,
           "username": "Joshuee1912"
         }
       ]
     },
     {
-      "level": "07012023-153653943-Bluekittyracer-261949641986-3351_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "07012023-153653943-Bluekittyracer-261949641986-3351",
       "standings": [
         {
           "steamId": "76561198050792757",
@@ -2234,94 +2199,153 @@
           "team": "CTR"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 47.30043,
+          "points": 20,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561199126724675",
           "time": 47.84095,
-          "points": 20,
+          "points": 18,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561198008859132",
           "time": 47.87292,
-          "points": 18,
+          "points": 16,
           "username": "Lazy_Echidna"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 48.13845,
+          "points": 14,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 48.13979,
+          "points": 13,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198847576929",
           "time": 48.27308,
-          "points": 16,
+          "points": 12,
           "username": "Lightning"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 48.3862,
+          "points": 11,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561198023336905",
           "time": 48.52531,
-          "points": 14,
+          "points": 9,
           "username": "Hademar"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 48.63865,
+          "points": 8,
+          "username": "OwlPlague",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561199230094250",
+          "time": 48.69495,
+          "points": 7,
+          "username": "Ragetoad.Kawaii",
+          "team": "RTR"
         },
         {
           "steamId": "76561198932043314",
           "time": 48.73264,
-          "points": 13,
+          "points": 6,
           "username": "Metalted"
         },
         {
           "steamId": "76561198067925412",
           "time": 48.98637,
-          "points": 12,
+          "points": 5,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198896246339",
           "time": 49.01749,
-          "points": 11,
+          "points": 4,
           "username": "RoundNzt"
         },
         {
           "steamId": "76561199121464627",
           "time": 49.49136,
-          "points": 9,
+          "points": 3,
           "username": "rsgold",
           "team": "OR"
         },
         {
           "steamId": "76561199345647079",
           "time": 49.60434,
-          "points": 8,
+          "points": 2,
           "username": "really_random_name"
         },
         {
           "steamId": "76561199162451829",
           "time": 49.64894,
-          "points": 7,
+          "points": 1,
           "username": "Pickel"
         },
         {
           "steamId": "76561198031919228",
           "time": 49.71491,
-          "points": 6,
+          "points": 1,
           "username": "Akane"
         },
         {
           "steamId": "76561197979087520",
           "time": 49.85983,
-          "points": 5,
+          "points": 1,
           "username": "Mokster"
         },
         {
           "steamId": "76561198043268277",
           "time": 49.95639,
-          "points": 4,
+          "points": 1,
           "username": "Frog Mime"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 50.08687,
+          "points": 1,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561197989028539",
           "time": 50.16617,
-          "points": 3,
+          "points": 1,
           "username": "Diabler"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 50.40113,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
+        },
+        {
+          "steamId": "76561198001387193",
+          "time": 50.45883,
+          "points": 1,
+          "username": "Warcans"
         },
         {
           "steamId": "76561198040976717",
           "time": 50.65863,
-          "points": 2,
+          "points": 1,
           "username": "ttv/Lilly the Bun"
         },
         {
@@ -2329,6 +2353,12 @@
           "time": 51.22042,
           "points": 1,
           "username": "Kabs666"
+        },
+        {
+          "steamId": "76561198256080744",
+          "time": 51.30957,
+          "points": 1,
+          "username": "Joshuee1912"
         },
         {
           "steamId": "76561198824105813",
@@ -2409,6 +2439,12 @@
           "username": "TrainNerd09"
         },
         {
+          "steamId": "76561197990087561",
+          "time": 55.83432,
+          "points": 1,
+          "username": "Zarphus"
+        },
+        {
           "steamId": "76561198109618759",
           "time": 56.7107,
           "points": 1,
@@ -2417,185 +2453,168 @@
       ]
     },
     {
-      "level": "07012023-153653943-Bluekittyracer-261949641986-3351_Zeepkist Super League - Construction (Room 2).csv",
+      "level": "01012023-162234773-BlueDreamer-559439631222-4732",
       "standings": [
         {
-          "steamId": "76561198081356099",
-          "time": 47.30043,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 48.13845,
-          "points": 22,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 48.13979,
-          "points": 20,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 48.3862,
-          "points": 18,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 48.63865,
-          "points": 16,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199230094250",
-          "time": 48.69495,
-          "points": 14,
-          "username": "Ragetoad.Kawaii",
-          "team": "RTR"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 50.08687,
-          "points": 13,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 50.40113,
-          "points": 12,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
           "steamId": "76561198001387193",
-          "time": 50.45883,
-          "points": 11,
+          "time": 54.99481,
+          "points": 25,
           "username": "Warcans"
         },
         {
-          "steamId": "76561198256080744",
-          "time": 51.30957,
-          "points": 9,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561197990087561",
-          "time": 55.83432,
-          "points": 8,
-          "username": "Zarphus"
-        }
-      ]
-    },
-    {
-      "level": "01012023-162234773-BlueDreamer-559439631222-4732_Zeepkist Super League - Construction (Room 1).csv",
-      "standings": [
-        {
           "steamId": "76561198847576929",
           "time": 55.05023,
-          "points": 25,
+          "points": 22,
           "username": "Lightning"
         },
         {
           "steamId": "76561198050792757",
           "time": 55.25906,
-          "points": 22,
+          "points": 20,
           "username": "justMaki"
         },
         {
           "steamId": "76561198106476018",
           "time": 55.42883,
-          "points": 20,
+          "points": 18,
           "username": "jandje",
           "team": "CTR"
         },
         {
           "steamId": "76561198896246339",
           "time": 55.51506,
-          "points": 18,
+          "points": 16,
           "username": "RoundNzt"
+        },
+        {
+          "steamId": "76561198081356099",
+          "time": 55.73134,
+          "points": 14,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 55.96616,
+          "points": 13,
+          "username": "VirusCookies"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 56.48278,
+          "points": 12,
+          "username": "OwlPlague",
+          "team": "CTR"
         },
         {
           "steamId": "76561199126724675",
           "time": 56.71767,
-          "points": 16,
+          "points": 11,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561198123116932",
           "time": 56.73944,
-          "points": 14,
+          "points": 9,
           "username": "nate69cam"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 56.87749,
+          "points": 8,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
         },
         {
           "steamId": "76561198067925412",
           "time": 56.88683,
-          "points": 13,
+          "points": 7,
           "username": "AndMe14"
+        },
+        {
+          "steamId": "76561199230094250",
+          "time": 57.05548,
+          "points": 6,
+          "username": "Ragetoad.Kawaii",
+          "team": "RTR"
         },
         {
           "steamId": "76561198008859132",
           "time": 57.53149,
-          "points": 12,
+          "points": 5,
           "username": "Lazy_Echidna"
         },
         {
           "steamId": "76561198824105813",
           "time": 57.87984,
-          "points": 11,
+          "points": 4,
           "username": "V"
         },
         {
           "steamId": "76561198932043314",
           "time": 57.9502,
-          "points": 9,
+          "points": 3,
           "username": "Metalted"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 58.19422,
+          "points": 2,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561198043268277",
           "time": 58.75213,
-          "points": 8,
+          "points": 1,
           "username": "Frog Mime"
         },
         {
           "steamId": "76561198838593572",
           "time": 59.64574,
-          "points": 7,
+          "points": 1,
           "username": "invisiblecat8"
         },
         {
           "steamId": "76561199009305655",
           "time": 59.80897,
-          "points": 6,
+          "points": 1,
           "username": "noobwithnukes"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 60.25166,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198317057262",
           "time": 60.43774,
-          "points": 5,
+          "points": 1,
           "username": "IstAviX"
         },
         {
           "steamId": "76561198040976717",
           "time": 60.71777,
-          "points": 4,
+          "points": 1,
           "username": "ttv/Lilly the Bun"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 60.82692,
+          "points": 1,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198033482669",
           "time": 61.73036,
-          "points": 3,
+          "points": 1,
           "username": "Boogie Bear"
         },
         {
           "steamId": "76561197996376845",
           "time": 61.87518,
-          "points": 2,
+          "points": 1,
           "username": "Arder"
         },
         {
@@ -2636,6 +2655,18 @@
           "username": "Flames1099"
         },
         {
+          "steamId": "76561199217544926",
+          "time": 63.56986,
+          "points": 1,
+          "username": "dirtyboy58"
+        },
+        {
+          "steamId": "76561197990087561",
+          "time": 64.0575,
+          "points": 1,
+          "username": "Zarphus"
+        },
+        {
           "steamId": "76561197979087520",
           "time": 64.10326,
           "points": 1,
@@ -2646,6 +2677,12 @@
           "time": 64.24068,
           "points": 1,
           "username": "SikeDollaz"
+        },
+        {
+          "steamId": "76561198256080744",
+          "time": 64.32256,
+          "points": 1,
+          "username": "Joshuee1912"
         },
         {
           "steamId": "76561198000493194",
@@ -2686,89 +2723,7 @@
       ]
     },
     {
-      "level": "01012023-162234773-BlueDreamer-559439631222-4732_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198001387193",
-          "time": 54.99481,
-          "points": 25,
-          "username": "Warcans"
-        },
-        {
-          "steamId": "76561198081356099",
-          "time": 55.73134,
-          "points": 22,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 55.96616,
-          "points": 20,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 56.48278,
-          "points": 18,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 56.87749,
-          "points": 16,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199230094250",
-          "time": 57.05548,
-          "points": 14,
-          "username": "Ragetoad.Kawaii",
-          "team": "RTR"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 58.19422,
-          "points": 13,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 60.25166,
-          "points": 12,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 60.82692,
-          "points": 11,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 63.56986,
-          "points": 9,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561197990087561",
-          "time": 64.0575,
-          "points": 8,
-          "username": "Zarphus"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 64.32256,
-          "points": 7,
-          "username": "Joshuee1912"
-        }
-      ]
-    },
-    {
-      "level": "08012023-201207216-Joshuee1912-330357278996-1096_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "08012023-201207216-Joshuee1912-330357278996-1096",
       "standings": [
         {
           "steamId": "76561198106476018",
@@ -2790,88 +2745,134 @@
           "username": "Lazy_Echidna"
         },
         {
+          "steamId": "76561198081356099",
+          "time": 41.55043,
+          "points": 18,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561198050792757",
           "time": 41.57984,
-          "points": 18,
+          "points": 16,
           "username": "justMaki"
         },
         {
           "steamId": "76561198847576929",
           "time": 41.95208,
-          "points": 16,
+          "points": 14,
           "username": "Lightning"
         },
         {
           "steamId": "76561198030459761",
           "time": 42.2423,
-          "points": 14,
+          "points": 13,
           "username": "I_stay_sideways"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 42.24466,
+          "points": 12,
+          "username": "OwlPlague",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561198001387193",
+          "time": 42.24617,
+          "points": 11,
+          "username": "Warcans"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 42.30926,
+          "points": 9,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
         },
         {
           "steamId": "76561197979087520",
           "time": 42.33867,
-          "points": 13,
+          "points": 8,
           "username": "Mokster"
+        },
+        {
+          "steamId": "76561198155015234",
+          "time": 42.42191,
+          "points": 7,
+          "username": "VirusCookies"
         },
         {
           "steamId": "76561198023336905",
           "time": 42.5458,
-          "points": 12,
+          "points": 6,
           "username": "Hademar"
         },
         {
           "steamId": "76561198896246339",
           "time": 42.6716,
-          "points": 11,
+          "points": 5,
           "username": "RoundNzt"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 43.15839,
+          "points": 4,
+          "username": "AuroTheAzure"
+        },
+        {
+          "steamId": "76561199230094250",
+          "time": 43.271,
+          "points": 3,
+          "username": "Ragetoad.Kawaii",
+          "team": "RTR"
         },
         {
           "steamId": "76561198067925412",
           "time": 43.40335,
-          "points": 9,
+          "points": 2,
           "username": "AndMe14"
         },
         {
           "steamId": "76561198824105813",
           "time": 43.57674,
-          "points": 8,
+          "points": 1,
           "username": "V"
         },
         {
           "steamId": "76561197989028539",
           "time": 43.67701,
-          "points": 7,
+          "points": 1,
           "username": "Diabler"
         },
         {
           "steamId": "76561198109881901",
           "time": 43.78667,
-          "points": 6,
+          "points": 1,
           "username": "Kabs666"
         },
         {
           "steamId": "76561199121464627",
           "time": 43.91891,
-          "points": 5,
+          "points": 1,
           "username": "rsgold",
           "team": "OR"
         },
         {
           "steamId": "76561199230056823",
           "time": 44.33317,
-          "points": 4,
+          "points": 1,
           "username": "Flames1099"
         },
         {
           "steamId": "76561198838593572",
           "time": 44.35276,
-          "points": 3,
+          "points": 1,
           "username": "invisiblecat8"
         },
         {
           "steamId": "76561199009305655",
           "time": 44.40164,
-          "points": 2,
+          "points": 1,
           "username": "noobwithnukes"
         },
         {
@@ -2887,10 +2888,29 @@
           "username": "Certified Bruh Moment™"
         },
         {
+          "steamId": "76561199217544926",
+          "time": 44.50137,
+          "points": 1,
+          "username": "dirtyboy58"
+        },
+        {
+          "steamId": "76561198302369289",
+          "time": 44.79341,
+          "points": 1,
+          "username": "monkey"
+        },
+        {
           "steamId": "76561198043268277",
           "time": 44.80391,
           "points": 1,
           "username": "Frog Mime"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 44.85798,
+          "points": 1,
+          "username": "Rorroh",
+          "team": "CLMTY"
         },
         {
           "steamId": "76561198932043314",
@@ -2917,6 +2937,12 @@
           "username": "SikeDollaz"
         },
         {
+          "steamId": "76561198256080744",
+          "time": 45.59092,
+          "points": 1,
+          "username": "Joshuee1912"
+        },
+        {
           "steamId": "76561199050059333",
           "time": 45.6507,
           "points": 1,
@@ -2929,6 +2955,12 @@
           "username": "6X111"
         },
         {
+          "steamId": "76561197990087561",
+          "time": 45.84174,
+          "points": 1,
+          "username": "Zarphus"
+        },
+        {
           "steamId": "76561198835392996",
           "time": 45.9764,
           "points": 1,
@@ -2939,6 +2971,12 @@
           "time": 46.08101,
           "points": 1,
           "username": "IstAviX"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 46.14036,
+          "points": 1,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561197996376845",
@@ -2995,6 +3033,12 @@
           "username": "Akane"
         },
         {
+          "steamId": "76561199282497311",
+          "time": 50.29639,
+          "points": 1,
+          "username": "groovy"
+        },
+        {
           "steamId": "76561198000493194",
           "time": 51.36113,
           "points": 1,
@@ -3003,101 +3047,7 @@
       ]
     },
     {
-      "level": "08012023-201207216-Joshuee1912-330357278996-1096_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198081356099",
-          "time": 41.55043,
-          "points": 25,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 42.24466,
-          "points": 22,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198001387193",
-          "time": 42.24617,
-          "points": 20,
-          "username": "Warcans"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 42.30926,
-          "points": 18,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198155015234",
-          "time": 42.42191,
-          "points": 16,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 43.15839,
-          "points": 14,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561199230094250",
-          "time": 43.271,
-          "points": 13,
-          "username": "Ragetoad.Kawaii",
-          "team": "RTR"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 44.50137,
-          "points": 12,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561198302369289",
-          "time": 44.79341,
-          "points": 11,
-          "username": "monkey"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 44.85798,
-          "points": 9,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 45.59092,
-          "points": 8,
-          "username": "Joshuee1912"
-        },
-        {
-          "steamId": "76561197990087561",
-          "time": 45.84174,
-          "points": 7,
-          "username": "Zarphus"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 46.14036,
-          "points": 6,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561199282497311",
-          "time": 50.29639,
-          "points": 5,
-          "username": "groovy"
-        }
-      ]
-    },
-    {
-      "level": "10012023-201438359-RadiationMutt-290697466954-2278_Zeepkist Super League - Construction (Room 1).csv",
+      "level": "10012023-201438359-RadiationMutt-290697466954-2278",
       "standings": [
         {
           "steamId": "76561198050792757",
@@ -3106,101 +3056,165 @@
           "username": "justMaki"
         },
         {
+          "steamId": "76561198155015234",
+          "time": 80.4894,
+          "points": 22,
+          "username": "VirusCookies"
+        },
+        {
+          "steamId": "76561198081356099",
+          "time": 80.62949,
+          "points": 20,
+          "username": "Sandals",
+          "team": "CTR"
+        },
+        {
+          "steamId": "76561199173536675",
+          "time": 80.88763,
+          "points": 18,
+          "username": "OwlPlague",
+          "team": "CTR"
+        },
+        {
           "steamId": "76561199126724675",
           "time": 81.03429,
-          "points": 22,
+          "points": 16,
           "username": "ZOMAN"
         },
         {
           "steamId": "76561198847576929",
           "time": 81.36405,
-          "points": 20,
+          "points": 14,
           "username": "Lightning"
         },
         {
           "steamId": "76561198067925412",
           "time": 81.48866,
-          "points": 18,
+          "points": 13,
           "username": "AndMe14"
+        },
+        {
+          "steamId": "76561198161379363",
+          "time": 81.70393,
+          "points": 12,
+          "username": "Cbad Cruiser",
+          "team": "CTR"
         },
         {
           "steamId": "76561198020002661",
           "time": 81.84579,
-          "points": 16,
+          "points": 11,
           "username": "RadiationMutt"
         },
         {
           "steamId": "76561198008859132",
           "time": 82.06197,
-          "points": 14,
+          "points": 9,
           "username": "Lazy_Echidna"
+        },
+        {
+          "steamId": "76561198027978961",
+          "time": 82.69273,
+          "points": 8,
+          "username": "Rorroh",
+          "team": "CLMTY"
+        },
+        {
+          "steamId": "76561198001387193",
+          "time": 83.21199,
+          "points": 7,
+          "username": "Warcans"
+        },
+        {
+          "steamId": "76561199217544926",
+          "time": 83.52077,
+          "points": 6,
+          "username": "dirtyboy58"
         },
         {
           "steamId": "76561198838593572",
           "time": 83.83753,
-          "points": 13,
+          "points": 5,
           "username": "invisiblecat8"
         },
         {
           "steamId": "76561198932043314",
           "time": 83.97491,
-          "points": 12,
+          "points": 4,
           "username": "Metalted"
         },
         {
           "steamId": "76561197989028539",
           "time": 84.02055,
-          "points": 11,
+          "points": 3,
           "username": "Diabler"
         },
         {
           "steamId": "76561198896246339",
           "time": 84.25891,
-          "points": 9,
+          "points": 2,
           "username": "RoundNzt"
+        },
+        {
+          "steamId": "76561197965640463",
+          "time": 84.48075,
+          "points": 1,
+          "username": "L3it3R"
         },
         {
           "steamId": "76561198304929551",
           "time": 84.65739,
-          "points": 8,
+          "points": 1,
           "username": "Certified Bruh Moment™"
         },
         {
           "steamId": "76561198023336905",
           "time": 84.65991,
-          "points": 7,
+          "points": 1,
           "username": "Hademar"
         },
         {
           "steamId": "76561198031919228",
           "time": 85.45997,
-          "points": 6,
+          "points": 1,
           "username": "Akane"
         },
         {
           "steamId": "76561198123116932",
           "time": 85.4611,
-          "points": 5,
+          "points": 1,
           "username": "nate69cam"
         },
         {
           "steamId": "76561198317057262",
           "time": 85.60767,
-          "points": 4,
+          "points": 1,
           "username": "IstAviX"
         },
         {
           "steamId": "76561199121464627",
           "time": 85.63199,
-          "points": 3,
+          "points": 1,
           "username": "rsgold",
           "team": "OR"
         },
         {
           "steamId": "76561198030459761",
           "time": 86.00983,
-          "points": 2,
+          "points": 1,
           "username": "I_stay_sideways"
+        },
+        {
+          "steamId": "76561199050059333",
+          "time": 86.1609,
+          "points": 1,
+          "username": "tymbot"
+        },
+        {
+          "steamId": "76561198079618904",
+          "time": 86.5371,
+          "points": 1,
+          "username": "AuroTheAzure"
         },
         {
           "steamId": "76561198040976717",
@@ -3287,10 +3301,28 @@
           "username": "Boogie Bear"
         },
         {
+          "steamId": "76561198302369289",
+          "time": 90.56466,
+          "points": 1,
+          "username": "monkey"
+        },
+        {
+          "steamId": "76561197990087561",
+          "time": 91.04397,
+          "points": 1,
+          "username": "Zarphus"
+        },
+        {
           "steamId": "76561198075107412",
           "time": 91.67451,
           "points": 1,
           "username": "DocShip"
+        },
+        {
+          "steamId": "76561198256080744",
+          "time": 92.47607,
+          "points": 1,
+          "username": "Joshuee1912"
         },
         {
           "steamId": "76561198139937395",
@@ -3321,98 +3353,11 @@
           "time": 98.65655,
           "points": 1,
           "username": "olaboobear"
-        }
-      ]
-    },
-    {
-      "level": "10012023-201438359-RadiationMutt-290697466954-2278_Zeepkist Super League - Construction (Room 2).csv",
-      "standings": [
-        {
-          "steamId": "76561198155015234",
-          "time": 80.4894,
-          "points": 25,
-          "username": "VirusCookies"
-        },
-        {
-          "steamId": "76561198081356099",
-          "time": 80.62949,
-          "points": 22,
-          "username": "Sandals",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561199173536675",
-          "time": 80.88763,
-          "points": 20,
-          "username": "OwlPlague",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198161379363",
-          "time": 81.70393,
-          "points": 18,
-          "username": "Cbad Cruiser",
-          "team": "CTR"
-        },
-        {
-          "steamId": "76561198027978961",
-          "time": 82.69273,
-          "points": 16,
-          "username": "Rorroh",
-          "team": "CLMTY"
-        },
-        {
-          "steamId": "76561198001387193",
-          "time": 83.21199,
-          "points": 14,
-          "username": "Warcans"
-        },
-        {
-          "steamId": "76561199217544926",
-          "time": 83.52077,
-          "points": 13,
-          "username": "dirtyboy58"
-        },
-        {
-          "steamId": "76561197965640463",
-          "time": 84.48075,
-          "points": 12,
-          "username": "L3it3R"
-        },
-        {
-          "steamId": "76561199050059333",
-          "time": 86.1609,
-          "points": 11,
-          "username": "tymbot"
-        },
-        {
-          "steamId": "76561198079618904",
-          "time": 86.5371,
-          "points": 9,
-          "username": "AuroTheAzure"
-        },
-        {
-          "steamId": "76561198302369289",
-          "time": 90.56466,
-          "points": 8,
-          "username": "monkey"
-        },
-        {
-          "steamId": "76561197990087561",
-          "time": 91.04397,
-          "points": 7,
-          "username": "Zarphus"
-        },
-        {
-          "steamId": "76561198256080744",
-          "time": 92.47607,
-          "points": 6,
-          "username": "Joshuee1912"
         },
         {
           "steamId": "76561199282497311",
           "time": 103.5326,
-          "points": 5,
+          "points": 1,
           "username": "groovy"
         }
       ]
