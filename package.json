@@ -3,7 +3,7 @@
     "build": "super-league -i data -o output"
   },
   "dependencies": {
-    "@zeepkist/combine": "3.0.1"
+    "@zeepkist/combine": "3.0.2"
   },
   "renovate": {
     "extends": [
