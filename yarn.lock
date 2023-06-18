@@ -5,32 +5,32 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@zeepkist/combine@npm:3.0.1":
-  version: 3.0.1
-  resolution: "@zeepkist/combine@npm:3.0.1"
+"@zeepkist/combine@npm:3.0.2":
+  version: 3.0.2
+  resolution: "@zeepkist/combine@npm:3.0.2"
   dependencies:
-    commander: ~10.0.0
-    csv-parse: ~5.3.3
+    commander: ~11.0.0
+    csv-parse: ~5.4.0
   dependenciesMeta:
     esbuild:
       built: true
   bin:
     super-league: dist/cli.js
-  checksum: d6a8b77af2ace3f8265d0892bc6430ba44f862fc568bc03b6712cbfa8466b6f40e1b6e5468cc2463762e19b7f578a51618082f2ca299e49e97c1c9d2e79a1eb1
+  checksum: b1ca13f65b021c5df3e6be38493afb710f9007c1eefea0c637b953e7b2f9516b497a0ece7e127328a4659740367914b507720c0907fbb9a0b2ce8ea49938a60c
   languageName: node
   linkType: hard
 
-"commander@npm:~10.0.0":
-  version: 10.0.1
-  resolution: "commander@npm:10.0.1"
-  checksum: 436901d64a818295803c1996cd856621a74f30b9f9e28a588e726b2b1670665bccd7c1a77007ebf328729f0139838a88a19265858a0fa7a8728c4656796db948
+"commander@npm:~11.0.0":
+  version: 11.0.0
+  resolution: "commander@npm:11.0.0"
+  checksum: 6621954e1e1d078b4991c1f5bbd9439ad37aa7768d6ab4842de1dbd4d222c8a27e1b8e62108b3a92988614af45031d5bb2a2aaa92951f4d0c934d1a1ac564bb4
   languageName: node
   linkType: hard
 
-"csv-parse@npm:~5.3.3":
-  version: 5.3.10
-  resolution: "csv-parse@npm:5.3.10"
-  checksum: 4d74c5912f9903b84ecca06399191b0fb5c9e7e7c2f02b845393393a2b66192e47e4c2bc8bd03f0c483108ae8e4367a46b1e5f945ded26b386ce9148c0239d14
+"csv-parse@npm:~5.4.0":
+  version: 5.4.0
+  resolution: "csv-parse@npm:5.4.0"
+  checksum: e9c2f23953f628849c476adeb9f500e9c03fcfe98fea7b732366e3c2ed0b07a5e67f32ca12a0132db6eb71601c080b4935b5921296db3625a597e24caa16f633
   languageName: node
   linkType: hard
 
@@ -38,6 +38,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@zeepkist/combine": 3.0.1
+    "@zeepkist/combine": 3.0.2
   languageName: unknown
   linkType: soft
