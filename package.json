@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "build": "super-league -i data -o output"
   },
