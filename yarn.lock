@@ -2,35 +2,35 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 6
-  cacheKey: 8
+  version: 8
+  cacheKey: 10
 
 "@zeepkist/combine@npm:3.0.2":
   version: 3.0.2
   resolution: "@zeepkist/combine@npm:3.0.2"
   dependencies:
-    commander: ~11.0.0
-    csv-parse: ~5.4.0
+    commander: "npm:~11.0.0"
+    csv-parse: "npm:~5.4.0"
   dependenciesMeta:
     esbuild:
       built: true
   bin:
     super-league: dist/cli.js
-  checksum: b1ca13f65b021c5df3e6be38493afb710f9007c1eefea0c637b953e7b2f9516b497a0ece7e127328a4659740367914b507720c0907fbb9a0b2ce8ea49938a60c
+  checksum: 8/b1ca13f65b021c5df3e6be38493afb710f9007c1eefea0c637b953e7b2f9516b497a0ece7e127328a4659740367914b507720c0907fbb9a0b2ce8ea49938a60c
   languageName: node
   linkType: hard
 
 "commander@npm:~11.0.0":
   version: 11.0.0
   resolution: "commander@npm:11.0.0"
-  checksum: 6621954e1e1d078b4991c1f5bbd9439ad37aa7768d6ab4842de1dbd4d222c8a27e1b8e62108b3a92988614af45031d5bb2a2aaa92951f4d0c934d1a1ac564bb4
+  checksum: 8/6621954e1e1d078b4991c1f5bbd9439ad37aa7768d6ab4842de1dbd4d222c8a27e1b8e62108b3a92988614af45031d5bb2a2aaa92951f4d0c934d1a1ac564bb4
   languageName: node
   linkType: hard
 
 "csv-parse@npm:~5.4.0":
   version: 5.4.1
   resolution: "csv-parse@npm:5.4.1"
-  checksum: 37aa972148902c562bbe7f158f1d093a710801f1f5171064406e7e302f3da00b1397752dcac558a523a8a2fb7d529d96e41b9de882e3a56334cfbebedc3f0bdb
+  checksum: 8/37aa972148902c562bbe7f158f1d093a710801f1f5171064406e7e302f3da00b1397752dcac558a523a8a2fb7d529d96e41b9de882e3a56334cfbebedc3f0bdb
   languageName: node
   linkType: hard
 
@@ -38,6 +38,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@zeepkist/combine": 3.0.2
+    "@zeepkist/combine": "npm:3.0.2"
   languageName: unknown
   linkType: soft
