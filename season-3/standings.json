@@ -1,23 +1,56 @@
 [
   {
     "username": "Kernkob",
-    "totalPoints": 363.13,
+    "totalPoints": 486.7,
     "steamId": "76561199024808939"
   },
   {
     "username": "schmxrg",
-    "totalPoints": 350.11,
+    "totalPoints": 469.69,
     "steamId": "76561198052077385"
   },
   {
     "username": "Lexer",
-    "totalPoints": 326.16,
+    "totalPoints": 446.02,
     "steamId": "76561198851912263"
   },
   {
     "username": "St Nicholas",
-    "totalPoints": 315.17,
+    "totalPoints": 428.53,
     "steamId": "76561198047403251"
+  },
+  {
+    "username": "Lazy_Echidna",
+    "team": "TOG",
+    "totalPoints": 397.1,
+    "steamId": "76561198008859132"
+  },
+  {
+    "username": "agix",
+    "totalPoints": 384.13,
+    "steamId": "76561198974231691"
+  },
+  {
+    "username": "Shadynook",
+    "totalPoints": 356.24,
+    "steamId": "76561197980151170"
+  },
+  {
+    "username": "OwlPlague",
+    "team": "CTR",
+    "totalPoints": 353,
+    "steamId": "76561199173536675"
+  },
+  {
+    "username": "DeiRex",
+    "totalPoints": 346.41,
+    "steamId": "76561198027169155"
+  },
+  {
+    "username": "Metalted",
+    "team": "ZMS",
+    "totalPoints": 321.02,
+    "steamId": "76561198932043314"
   },
   {
     "username": "Istaysideway",
@@ -26,15 +59,24 @@
     "steamId": "76561198030459761"
   },
   {
-    "username": "Lazy_Echidna",
-    "team": "TOG",
-    "totalPoints": 295.81,
-    "steamId": "76561198008859132"
+    "username": "Akane",
+    "totalPoints": 307.6,
+    "steamId": "76561198031919228"
   },
   {
-    "username": "agix",
-    "totalPoints": 279.27,
-    "steamId": "76561198974231691"
+    "username": "Arder",
+    "totalPoints": 283.33,
+    "steamId": "76561197996376845"
+  },
+  {
+    "username": "DeeDeeNaNaNa",
+    "totalPoints": 280.66,
+    "steamId": "76561198314320065"
+  },
+  {
+    "username": "Orange Sheets",
+    "totalPoints": 279.13,
+    "steamId": "76561198003528539"
   },
   {
     "username": "A2 Zecklord",
@@ -42,20 +84,31 @@
     "steamId": "76561198335037968"
   },
   {
-    "username": "Shadynook",
-    "totalPoints": 254.17,
-    "steamId": "76561197980151170"
+    "username": "Hi Im Yolo",
+    "totalPoints": 264.87,
+    "steamId": "76561198091849339"
   },
   {
-    "username": "OwlPlague",
+    "username": "ZOMAN",
+    "team": "oOOo",
+    "totalPoints": 256.36,
+    "steamId": "76561199126724675"
+  },
+  {
+    "username": "Hydro",
+    "totalPoints": 251.9,
+    "steamId": "76561199027567424"
+  },
+  {
+    "username": "OgelGames",
+    "totalPoints": 250.61,
+    "steamId": "76561198934033785"
+  },
+  {
+    "username": "jandje",
     "team": "CTR",
-    "totalPoints": 252,
-    "steamId": "76561199173536675"
-  },
-  {
-    "username": "DeiRex",
-    "totalPoints": 251.27,
-    "steamId": "76561198027169155"
+    "totalPoints": 250.54,
+    "steamId": "76561198106476018"
   },
   {
     "username": "Fwogiie",
@@ -64,10 +117,14 @@
     "steamId": "76561199230094250"
   },
   {
-    "username": "Metalted",
-    "team": "ZMS",
-    "totalPoints": 232.02,
-    "steamId": "76561198932043314"
+    "username": "maskeddog",
+    "totalPoints": 234.71,
+    "steamId": "76561198076209946"
+  },
+  {
+    "username": "Diabler",
+    "totalPoints": 224.55,
+    "steamId": "76561197989028539"
   },
   {
     "username": "Renergy",
@@ -76,35 +133,16 @@
     "steamId": "76561199135775747"
   },
   {
-    "username": "Akane",
-    "totalPoints": 211.74,
-    "steamId": "76561198031919228"
+    "username": "Quickracer10",
+    "team": "John",
+    "totalPoints": 211.7,
+    "steamId": "76561198149636594"
   },
   {
-    "username": "Orange Sheets",
-    "totalPoints": 205.28,
-    "steamId": "76561198003528539"
-  },
-  {
-    "username": "Arder",
-    "totalPoints": 203.26,
-    "steamId": "76561197996376845"
-  },
-  {
-    "username": "DeeDeeNaNaNa",
-    "totalPoints": 201.23,
-    "steamId": "76561198314320065"
-  },
-  {
-    "username": "OgelGames",
-    "totalPoints": 197.9,
-    "steamId": "76561198934033785"
-  },
-  {
-    "username": "jandje",
+    "username": "TheBamboozler",
     "team": "CTR",
-    "totalPoints": 193.4,
-    "steamId": "76561198106476018"
+    "totalPoints": 199.4,
+    "steamId": "76561198082304391"
   },
   {
     "username": "RoundNzt",
@@ -112,14 +150,9 @@
     "steamId": "76561198896246339"
   },
   {
-    "username": "Hi Im Yolo",
-    "totalPoints": 167.3,
-    "steamId": "76561198091849339"
-  },
-  {
-    "username": "maskeddog",
-    "totalPoints": 166.07,
-    "steamId": "76561198076209946"
+    "username": "Nails",
+    "totalPoints": 166.19,
+    "steamId": "76561198072185237"
   },
   {
     "username": "Socks242",
@@ -139,25 +172,9 @@
     "steamId": "76561199051019898"
   },
   {
-    "username": "Diabler",
-    "totalPoints": 145.84,
-    "steamId": "76561197989028539"
-  },
-  {
-    "username": "Hydro",
-    "totalPoints": 135.4,
-    "steamId": "76561199027567424"
-  },
-  {
     "username": "Graham The Guy",
     "totalPoints": 130.4,
     "steamId": "76561199128560669"
-  },
-  {
-    "username": "ZOMAN",
-    "team": "KUNG",
-    "totalPoints": 128.93,
-    "steamId": "76561199126724675"
   },
   {
     "username": "justMaki",
@@ -194,10 +211,14 @@
     "steamId": "76561198081356099"
   },
   {
-    "username": "Quickracer10",
-    "team": "KURK",
-    "totalPoints": 111.77,
-    "steamId": "76561198149636594"
+    "username": "Termite",
+    "totalPoints": 111.86,
+    "steamId": "76561198144551155"
+  },
+  {
+    "username": "invisiblecat8",
+    "totalPoints": 111.1,
+    "steamId": "76561198838593572"
   },
   {
     "username": "Linzi",
@@ -216,16 +237,32 @@
     "steamId": "76561198416930050"
   },
   {
+    "username": "joel",
+    "totalPoints": 104.79,
+    "steamId": "76561198824465660"
+  },
+  {
     "username": "Cbad Cruiser",
     "team": "CTR",
     "totalPoints": 104.73,
     "steamId": "76561198161379363"
   },
   {
+    "username": "Bean",
+    "totalPoints": 101.21,
+    "steamId": "76561198083545292"
+  },
+  {
     "username": "BootyMcShooty88",
     "team": "SBOI",
     "totalPoints": 100.87,
     "steamId": "76561198072579283"
+  },
+  {
+    "username": "Odist",
+    "team": "WAM",
+    "totalPoints": 97,
+    "steamId": "76561198180909591"
   },
   {
     "username": "icRS",
@@ -238,10 +275,10 @@
     "steamId": "76561198159073318"
   },
   {
-    "username": "TheBamboozler",
-    "team": "CTR",
-    "totalPoints": 90.4,
-    "steamId": "76561198082304391"
+    "username": "rtyyyyb",
+    "team": "ZET",
+    "totalPoints": 91.7,
+    "steamId": "76561199208124083"
   },
   {
     "username": "AndMe16",
@@ -265,9 +302,9 @@
     "steamId": "76561198359568548"
   },
   {
-    "username": "Nails",
-    "totalPoints": 82.61,
-    "steamId": "76561198072185237"
+    "username": "The Stig",
+    "totalPoints": 82.97,
+    "steamId": "76561198086671586"
   },
   {
     "username": "Jakie",
@@ -312,9 +349,9 @@
     "steamId": "76561198131756122"
   },
   {
-    "username": "The Stig",
-    "totalPoints": 66.75,
-    "steamId": "76561198086671586"
+    "username": "YTButItRuns",
+    "totalPoints": 66.21,
+    "steamId": "76561198000529645"
   },
   {
     "username": "Butter",
@@ -322,9 +359,9 @@
     "steamId": "76561199498272376"
   },
   {
-    "username": "Termite",
-    "totalPoints": 60.64,
-    "steamId": "76561198144551155"
+    "username": "ITz_WillleeMan",
+    "totalPoints": 63,
+    "steamId": "76561199128492450"
   },
   {
     "username": "[           ]",
@@ -353,20 +390,16 @@
     "steamId": "76561197969805328"
   },
   {
-    "username": "joel",
-    "totalPoints": 52.71,
-    "steamId": "76561198824465660"
+    "username": "a_random_tumbleweed",
+    "team": "ZET",
+    "totalPoints": 53.22,
+    "steamId": "76561198111674880"
   },
   {
     "username": "Stony⁧⁧Baboon",
     "team": "ATH",
     "totalPoints": 52.53,
     "steamId": "76561198076411436"
-  },
-  {
-    "username": "Bean",
-    "totalPoints": 52.07,
-    "steamId": "76561198083545292"
   },
   {
     "username": "Tritonas1237",
@@ -381,15 +414,15 @@
     "steamId": "76561198158497194"
   },
   {
-    "username": "a_random_tumbleweed",
-    "totalPoints": 47.93,
-    "steamId": "76561198111674880"
-  },
-  {
     "username": "NATHAN",
     "team": "XTR",
     "totalPoints": 47.87,
     "steamId": "76561198870312435"
+  },
+  {
+    "username": "Beans",
+    "totalPoints": 46.33,
+    "steamId": "76561198842622746"
   },
   {
     "username": "FORT OFF",
@@ -397,10 +430,9 @@
     "steamId": "76561199144917715"
   },
   {
-    "username": "rtyyyyb",
-    "team": "TOB",
-    "totalPoints": 43.13,
-    "steamId": "76561199208124083"
+    "username": "Revenger_19",
+    "totalPoints": 44.41,
+    "steamId": "76561198019659175"
   },
   {
     "username": "lerollman",
@@ -408,9 +440,19 @@
     "steamId": "76561198111967925"
   },
   {
+    "username": "Luma",
+    "totalPoints": 41.29,
+    "steamId": "76561198103582584"
+  },
+  {
     "username": "Irisdice",
     "totalPoints": 40.53,
     "steamId": "76561198125000151"
+  },
+  {
+    "username": "Andrei",
+    "totalPoints": 39.29,
+    "steamId": "76561198115857790"
   },
   {
     "username": "Hate Hater",
@@ -419,9 +461,14 @@
     "steamId": "76561199037373763"
   },
   {
-    "username": "Revenger_19",
-    "totalPoints": 37.27,
-    "steamId": "76561198019659175"
+    "username": "jofk2415",
+    "totalPoints": 36.93,
+    "steamId": "76561199589394762"
+  },
+  {
+    "username": "VLR Johinar",
+    "totalPoints": 36.71,
+    "steamId": "76561198033794112"
   },
   {
     "username": "Rigenix",
@@ -429,14 +476,14 @@
     "steamId": "76561198447684490"
   },
   {
-    "username": "invisiblecat8",
-    "totalPoints": 34.67,
-    "steamId": "76561198838593572"
-  },
-  {
     "username": "Richhyyyy",
     "totalPoints": 32.43,
     "steamId": "76561198040113746"
+  },
+  {
+    "username": "Madmax77345",
+    "totalPoints": 32.43,
+    "steamId": "76561198177076471"
   },
   {
     "username": "dencar85",
@@ -444,9 +491,10 @@
     "steamId": "76561198285710168"
   },
   {
-    "username": "Beans",
-    "totalPoints": 31.19,
-    "steamId": "76561198842622746"
+    "username": "L3it3R",
+    "team": "CTR",
+    "totalPoints": 30.36,
+    "steamId": "76561197965640463"
   },
   {
     "username": "MeroMeroNoMi",
@@ -492,6 +540,11 @@
     "steamId": "76561198171222118"
   },
   {
+    "username": "CrackerBarrel Gaming",
+    "totalPoints": 24.36,
+    "steamId": "76561198946416243"
+  },
+  {
     "username": "Spyder_0324",
     "totalPoints": 24.27,
     "steamId": "76561199365626794"
@@ -500,6 +553,11 @@
     "username": "vortex",
     "totalPoints": 23.8,
     "steamId": "76561199002720572"
+  },
+  {
+    "username": "MOW BIG T",
+    "totalPoints": 23.43,
+    "steamId": "76561198019079245"
   },
   {
     "username": "Despacito",
@@ -543,6 +601,11 @@
     "steamId": "76561198384609805"
   },
   {
+    "username": "jemvisser",
+    "totalPoints": 20.36,
+    "steamId": "76561198727675143"
+  },
+  {
     "username": "Waaksaam",
     "totalPoints": 20.21,
     "steamId": "76561198122894680"
@@ -558,6 +621,16 @@
     "steamId": "76561198164126074"
   },
   {
+    "username": "SQU4DDL3R",
+    "totalPoints": 20,
+    "steamId": "76561198044604220"
+  },
+  {
+    "username": "Zakusa",
+    "totalPoints": 19.29,
+    "steamId": "76561199229275180"
+  },
+  {
     "username": "Roskgo",
     "totalPoints": 19,
     "steamId": "76561198839953247"
@@ -568,29 +641,24 @@
     "steamId": "76561198353575625"
   },
   {
+    "username": "Twitch | AlexLikesToons",
+    "totalPoints": 18.79,
+    "steamId": "76561198075358740"
+  },
+  {
+    "username": "cookie",
+    "totalPoints": 18.5,
+    "steamId": "76561198091994639"
+  },
+  {
     "username": "alpa\\",
     "totalPoints": 18.4,
     "steamId": "76561197961191126"
   },
   {
-    "username": "jofk2415",
-    "totalPoints": 17.21,
-    "steamId": "76561199589394762"
-  },
-  {
     "username": "c0njah",
     "totalPoints": 16.79,
     "steamId": "76561199048457350"
-  },
-  {
-    "username": "Luma",
-    "totalPoints": 16.21,
-    "steamId": "76561198103582584"
-  },
-  {
-    "username": "YTButItRuns",
-    "totalPoints": 16.21,
-    "steamId": "76561198000529645"
   },
   {
     "username": "the_overlord",
@@ -601,6 +669,11 @@
     "username": "13Silvers",
     "totalPoints": 15.5,
     "steamId": "76561198107216213"
+  },
+  {
+    "username": "flyrydeenfly",
+    "totalPoints": 15.29,
+    "steamId": "76561198061883327"
   },
   {
     "username": "littlepuppy814",
@@ -629,6 +702,12 @@
     "steamId": "76561197965415412"
   },
   {
+    "username": "GuillaumePN",
+    "team": "Qc",
+    "totalPoints": 13.79,
+    "steamId": "76561199472626759"
+  },
+  {
     "username": "GamerBear",
     "totalPoints": 13.43,
     "steamId": "76561198808120140"
@@ -637,6 +716,11 @@
     "username": "BluntDunner",
     "totalPoints": 13.13,
     "steamId": "76561198057263092"
+  },
+  {
+    "username": "Ridetherails",
+    "totalPoints": 13.07,
+    "steamId": "76561198819034401"
   },
   {
     "username": "Last",
@@ -664,6 +748,11 @@
     "team": "TOG",
     "totalPoints": 12.13,
     "steamId": "76561198013828574"
+  },
+  {
+    "username": "F1Y1NGDUTCHM8N",
+    "totalPoints": 12,
+    "steamId": "76561198988960546"
   },
   {
     "username": "gtub",
@@ -721,9 +810,24 @@
     "steamId": "76561198058469781"
   },
   {
+    "username": "RousRoo",
+    "totalPoints": 10.43,
+    "steamId": "76561199502117194"
+  },
+  {
     "username": "cornshot",
     "totalPoints": 10.4,
     "steamId": "76561198043496387"
+  },
+  {
+    "username": "Azrael",
+    "totalPoints": 10.36,
+    "steamId": "76561198131493031"
+  },
+  {
+    "username": "Brittany Spears",
+    "totalPoints": 10.36,
+    "steamId": "76561198448256191"
   },
   {
     "username": "Baconhands",
@@ -736,6 +840,11 @@
     "steamId": "76561198051012565"
   },
   {
+    "username": "StupidGenericName",
+    "totalPoints": 9.57,
+    "steamId": "76561198398956183"
+  },
+  {
     "username": "LJ",
     "totalPoints": 9.4,
     "steamId": "76561197960818876"
@@ -746,15 +855,25 @@
     "steamId": "76561199112560691"
   },
   {
+    "username": "Tankxander",
+    "totalPoints": 9.36,
+    "steamId": "76561198211255129"
+  },
+  {
     "username": "Gauss of Cards",
     "team": "KCRj",
     "totalPoints": 9.33,
     "steamId": "76561198210051239"
   },
   {
-    "username": "cookie",
-    "totalPoints": 8.86,
-    "steamId": "76561198091994639"
+    "username": "deejaygerman21",
+    "totalPoints": 9.14,
+    "steamId": "76561199552996046"
+  },
+  {
+    "username": "Cripple Fighter",
+    "totalPoints": 8.93,
+    "steamId": "76561198037309504"
   },
   {
     "username": "hermitwolf",
@@ -767,14 +886,14 @@
     "steamId": "76561198823854710"
   },
   {
-    "username": "Ridetherails",
-    "totalPoints": 8.64,
-    "steamId": "76561198819034401"
-  },
-  {
     "username": "Jinx",
     "totalPoints": 8.6,
     "steamId": "76561199543183666"
+  },
+  {
+    "username": "UnderRedPlayz",
+    "totalPoints": 8.57,
+    "steamId": "76561199212421755"
   },
   {
     "username": "jrudy549",
@@ -787,15 +906,16 @@
     "steamId": "76561198156337225"
   },
   {
+    "username": "DocRee",
+    "team": "CLWN",
+    "totalPoints": 8.21,
+    "steamId": "76561198162390631"
+  },
+  {
     "username": "MonkeyGamer",
     "team": "FaS",
     "totalPoints": 8.14,
     "steamId": "76561199102825928"
-  },
-  {
-    "username": "MOW BIG T",
-    "totalPoints": 8.14,
-    "steamId": "76561198019079245"
   },
   {
     "username": "Flames1099",
@@ -806,11 +926,6 @@
     "username": "Evilyn",
     "totalPoints": 8,
     "steamId": "76561198002599243"
-  },
-  {
-    "username": "Madmax77345",
-    "totalPoints": 8,
-    "steamId": "76561198177076471"
   },
   {
     "username": "Jackson",
@@ -842,6 +957,11 @@
     "username": "Toby",
     "totalPoints": 7.36,
     "steamId": "76561198034225963"
+  },
+  {
+    "username": "GazBond",
+    "totalPoints": 7.29,
+    "steamId": "76561198167592418"
   },
   {
     "username": "Mio Squirts",
@@ -880,6 +1000,16 @@
     "steamId": "76561198000307034"
   },
   {
+    "username": "Microknigh7",
+    "totalPoints": 6.43,
+    "steamId": "76561198159335356"
+  },
+  {
+    "username": "Dylan",
+    "totalPoints": 6.29,
+    "steamId": "76561198120703231"
+  },
+  {
     "username": "Max Myth",
     "totalPoints": 6.27,
     "steamId": "76561197984731987"
@@ -895,9 +1025,30 @@
     "steamId": "76561199135565709"
   },
   {
-    "username": "VLR Johinar",
-    "totalPoints": 6,
-    "steamId": "76561198033794112"
+    "username": "laurin",
+    "totalPoints": 5.57,
+    "steamId": "76561199037764026"
+  },
+  {
+    "username": "Snowballistic",
+    "totalPoints": 5.21,
+    "steamId": "76561199244960694"
+  },
+  {
+    "username": "Jaydark",
+    "totalPoints": 5.14,
+    "steamId": "76561198841035992"
+  },
+  {
+    "username": "toast",
+    "team": "ZET",
+    "totalPoints": 5.07,
+    "steamId": "76561199150086335"
+  },
+  {
+    "username": "Rexxar",
+    "totalPoints": 4.93,
+    "steamId": "76561199274942717"
   },
   {
     "username": "Predator_3xplode",
@@ -910,9 +1061,29 @@
     "steamId": "76561198080619022"
   },
   {
+    "username": "Llamalou",
+    "totalPoints": 4.57,
+    "steamId": "76561199046886308"
+  },
+  {
     "username": "Wooster",
     "totalPoints": 4.53,
     "steamId": "76561198318584924"
+  },
+  {
+    "username": "The Notorious R.A.T",
+    "totalPoints": 4.43,
+    "steamId": "76561198170238430"
+  },
+  {
+    "username": "Snoop Dribble Doggo",
+    "totalPoints": 4.43,
+    "steamId": "76561197972480611"
+  },
+  {
+    "username": "TOMASZ GNEBICIEL",
+    "totalPoints": 4.36,
+    "steamId": "76561198123961599"
   },
   {
     "username": "spooliboi",
@@ -970,12 +1141,6 @@
     "username": "EclairCat",
     "totalPoints": 3.87,
     "steamId": "76561198053103666"
-  },
-  {
-    "username": "DocRee",
-    "team": "CLWN",
-    "totalPoints": 3.86,
-    "steamId": "76561198162390631"
   },
   {
     "username": "DaBreadBoi",
