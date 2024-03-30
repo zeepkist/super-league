@@ -1,28 +1,28 @@
 {
   "events": {
-    "2023-11-05": {
-      "name": "Bubble Trouble",
-      "workshopId": "3058108746"
+    "2024-04-21": {
+      "name": "Racetrack",
+      "workshopId": ""
     },
-    "2023-12-03": {
-      "name": "Monochromatic",
-      "workshopId": "3089325244"
+    "2024-05-19": {
+      "name": "Round 2",
+      "workshopId": ""
     },
-    "2024-01-14": {
-      "name": "Snow Rally",
-      "workshopId": "3116416275"
+    "2024-06-16": {
+      "name": "Round 3",
+      "workshopId": ""
     },
-    "2024-01-28": {
-      "name": "Wall Riding",
-      "workshopId": "3140272583"
+    "2024-07-14": {
+      "name": "Round 4",
+      "workshopId": ""
     },
-    "2024-02-25": {
-      "name": "Winter Sports",
-      "workshopId": "3158934781"
+    "2024-08-11": {
+      "name": "Round 5",
+      "workshopId": ""
     },
-    "2024-03-24": {
-      "name": "Empty Paint Can",
-      "workshopId": "3178379508"
+    "2024-09-08": {
+      "name": "Final",
+      "workshopId": ""
     }
   },
   "points": [
