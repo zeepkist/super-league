@@ -16,21 +16,21 @@ __metadata:
       built: true
   bin:
     super-league: dist/cli.js
-  checksum: 3c0a1b89cf08c799955d006e709c0575d49d418210faa38f100842ed1437caef96bde79b059d50bbf9f9fc87040d3a9cd2f1c8392e566dbeac274ca0f99a8c23
+  checksum: 10/3c0a1b89cf08c799955d006e709c0575d49d418210faa38f100842ed1437caef96bde79b059d50bbf9f9fc87040d3a9cd2f1c8392e566dbeac274ca0f99a8c23
   languageName: node
   linkType: hard
 
 "commander@npm:~11.0.0":
   version: 11.0.0
   resolution: "commander@npm:11.0.0"
-  checksum: 71cf453771c15d4e94afdd76a1e9bb31597dbc5f33130a1d399a4a7bc14eac765ebca7f0e077f347e5119087f6faa0017fd5e3cb6e4fc5c453853334c26162bc
+  checksum: 10/71cf453771c15d4e94afdd76a1e9bb31597dbc5f33130a1d399a4a7bc14eac765ebca7f0e077f347e5119087f6faa0017fd5e3cb6e4fc5c453853334c26162bc
   languageName: node
   linkType: hard
 
 "csv-parse@npm:~5.4.0":
   version: 5.4.1
   resolution: "csv-parse@npm:5.4.1"
-  checksum: a7bdc53d1d6db6fd9967076a9ddd871a6163fc35568796e8b282cb6a29a7207ed23beab3deb5aff8e3428d99e3b0642fc0e1b25f18b94e0d34db44e51a9cd542
+  checksum: 10/a7bdc53d1d6db6fd9967076a9ddd871a6163fc35568796e8b282cb6a29a7207ed23beab3deb5aff8e3428d99e3b0642fc0e1b25f18b94e0d34db44e51a9cd542
   languageName: node
   linkType: hard
 
