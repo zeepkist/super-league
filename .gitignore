@@ -114,3 +114,7 @@ typings/
 dist
 output
 scripts
+
+janklogger/*.json
+janklogger/*.log
+janklogger/*.csv

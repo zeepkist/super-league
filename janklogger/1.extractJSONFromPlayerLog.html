@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload and Process</title>
+</head>
+<body>
+    <h1>Upload a File</h1>
+    <input type="file" id="fileInput">
+    <pre id="result"></pre>
+
+    <script>
+        document.getElementById('fileInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const lines = e.target.result.split('\n');
+                    const timelogArray = [];
+                    let currentTrack = null;
+                    const tracks = {};
+
+                    for (const line of lines) {
+                        if (line.startsWith('SetupGame.cs: name:')) {
+                            currentTrack = line.split(': name: ')[1].trim();
+                            if (!tracks[currentTrack]) {
+                                tracks[currentTrack] = {
+                                    uid: '',
+                                    times: {}
+                                };
+                            }
+                        } else if (line.startsWith('SetupGame.cs: UID:')) {
+                            const uid = line.split(': UID: ')[1].trim();
+                            if (currentTrack) {
+                                tracks[currentTrack].uid = uid;
+                            }
+                        } else if (line.startsWith('TIMELOG|')) {
+                            const parts = line.split('|');
+                            const trackName = parts[1];
+                            const steamID = parts[2];
+                            const time = parseFloat(parts[3]);
+                            const userName = parts[4].replace('\r', ''); // Remove \r
+
+                            if (tracks[trackName]) {
+                                if (!tracks[trackName].times[steamID] || tracks[trackName].times[steamID].time > time) {
+                                    tracks[trackName].times[steamID] = { userName, time };
+                                }
+                            }
+                        }
+                    }
+
+                    const result = Object.keys(tracks).map(trackName => ({
+                        trackName,
+                        uid: tracks[trackName].uid,
+                        times: Object.keys(tracks[trackName].times)
+                            .map(steamID => ({
+                                steamID,
+                                userName: tracks[trackName].times[steamID].userName,
+                                bestTime: tracks[trackName].times[steamID].time
+                            }))
+                            .sort((a, b) => a.bestTime - b.bestTime)
+                    }));
+
+                    document.getElementById('result').textContent = JSON.stringify(result, null, 2);
+                };
+                reader.readAsText(file);
+            }
+        });
+    </script>
+</body>
+</html>
