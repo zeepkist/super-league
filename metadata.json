@@ -476,7 +476,7 @@
         },
         "2025-02-23": {
           "name": "Beginner",
-          "workshopId": ""
+          "workshopId": "3425049592"
         }
       },
       "points": [
@@ -531,6 +531,40 @@
         4,
         2
       ],
+      "finishPoints": 1,
+      "bestOf": 4
+    }
+  ],
+  [
+    "season-6",
+    {
+      "events": {
+        "2025-03-23": {
+          "name": "Narrow",
+          "workshopId": ""
+        },
+        "2025-04-20": {
+          "name": "Round 2",
+          "workshopId": ""
+        },
+        "2025-05-18": {
+          "name": "Round 3",
+          "workshopId": ""
+        },
+        "2025-06-15": {
+          "name": "Round 4",
+          "workshopId": ""
+        },
+        "2025-07-13": {
+          "name": "Round 5",
+          "workshopId": ""
+        },
+        "2025-08-10": {
+          "name": "Round 6: Final",
+          "workshopId": ""
+        }
+      },
+      "points": [],
       "finishPoints": 1,
       "bestOf": 4
     }
