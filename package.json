@@ -6,10 +6,5 @@
   "dependencies": {
     "@zeepkist/combine": "3.2.0"
   },
-  "renovate": {
-    "extends": [
-      "local>wopian/renovate-config"
-    ]
-  },
   "packageManager": "yarn@4.6.0"
 }
