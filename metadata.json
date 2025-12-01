@@ -634,17 +634,17 @@
         },
         "2025-11-30": {
           "name": "Adventure Remixed",
+          "workshopId": "3607106117"
+        },
+        "2026-01-11": {
+          "name": "Six Cubed",
           "workshopId": ""
         },
-        "2026-01-04": {
-          "name": "Round 4",
-          "workshopId": ""
-        },
-        "2026-01-25": {
+        "2026-02-08": {
           "name": "Round 5",
           "workshopId": ""
         },
-        "2026-02-22": {
+        "2026-03-08": {
           "name": "Round 6",
           "workshopId": ""
         }
